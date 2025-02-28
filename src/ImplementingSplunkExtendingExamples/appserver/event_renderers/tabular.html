@@ -1,0 +1,21 @@
+<%inherit file="//results/EventsViewer_default_renderer.html" />\
+<%def name="event_raw(job, event, request, options, xslt)">\
+<%
+import sys
+_fields = str(event.fields.get('tabular', 'host,source,sourcetype,linecount')).split(',')
+
+head = ''
+row = ''
+for f in _fields:
+    head += "<th>" + f + "</th>"
+    row += "<td>" + str(event.fields.get(f,'-')) + "</td>"
+%>
+<table class="tabular_eventtype">
+  <tr>
+    ${head}
+  </tr>
+  <tr>
+    ${row}
+  </tr>
+</table>
+</%def>

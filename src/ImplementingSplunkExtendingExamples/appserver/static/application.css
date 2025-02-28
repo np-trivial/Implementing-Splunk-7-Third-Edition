@@ -1,0 +1,29 @@
+.json_eventtype {
+  color: brown;
+  border-style:solid;
+  border-width:5px;
+}
+
+th.tabular_eventtype {
+  background-color: #dddddd;
+  border: 1px solid white;
+  padding: 4px;
+}
+
+td.tabular_eventtype {
+  background-color: #eeeeee;
+  border: 1px solid white;
+  padding: 4px;
+}
+
+ul.template_example {
+  list-style-type: none;
+}
+
+ul.template_example > li {
+//  float: left;
+  background-color: #dddddd;
+  padding: 4px;
+  margin: 1px;
+}
+

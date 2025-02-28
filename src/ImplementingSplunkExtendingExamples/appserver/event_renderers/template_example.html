@@ -1,0 +1,36 @@
+<%page args="job, event, request, options">
+<ul class="template_example">
+  <li>
+    <b>time:</b>
+    ${i18n.format_datetime_microseconds(event.get('_time', event.time))}
+  </li>
+  <li>
+    <b>ip:</b>
+    ${event.get('ip','')}
+  </li>
+  <li>
+    <b>logger:</b>
+    ${event.get('logger','')}
+  </li>
+  <li>
+    <b>message:</b>
+    ${event.get('message','')}
+  </li>
+  <li>
+    <b>req_time:</b>
+    ${event.get('req_time','')}
+  </li>
+  <li>
+    <b>session_id:</b>
+    ${event.get('session_id','')}
+  </li>
+  <li>
+    <b>user:</b>
+    ${event.get('user','')}
+  </li>
+  <li>
+    <b>_raw:</b>
+    ${event.get('_raw','')}
+  </li>
+</ul>
+</%page>

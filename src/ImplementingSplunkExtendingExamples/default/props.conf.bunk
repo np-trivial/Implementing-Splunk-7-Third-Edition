@@ -1,0 +1,20 @@
+[json_example]
+TIME_FORMAT=%H:%M:%S
+TIME_PREFIX="time":
+SHOULD_LINEMERGE=false
+
+[template_example]
+TIME_FORMAT=%H:%M:%S
+SHOULD_LINEMERGE=false
+
+[xml_example]
+TIME_FORMAT=%H:%M:%S
+TIME_PREFIX=<time>
+SHOULD_LINEMERGE=false
+
+[uname]
+TIME_FORMAT = %Y-%m-%d %H:%M:%S 
+SHOULD_LINEMERGE = false
+LINE_BREAKER = (?!)
+TRUNCATE=1048576
+

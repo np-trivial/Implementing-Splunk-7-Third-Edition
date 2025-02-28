@@ -1,0 +1,13 @@
+<%inherit file="//results/EventsViewer_default_renderer.html" />\
+<%def name="event_raw(job, event, request, options, xslt)">\
+<%
+import json
+import sys
+_json = str( event.fields.get('json', event.fields['_raw']) )
+try:
+    pretty = json.dumps( json.loads( _json ) , indent=4 )
+except Exception as inst:
+    pretty = "Unexpected error: " + str( inst )
+%>
+<pre class="json_eventtype"><code>${pretty}</code></pre>
+</%def>

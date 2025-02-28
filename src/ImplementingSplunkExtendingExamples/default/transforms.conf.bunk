@@ -1,0 +1,6 @@
+[urllookup]
+external_cmd = urllookup.py url
+fields_list = url
+#filename = urllookup.csv
+#match_type = WILDCARD(url)
+

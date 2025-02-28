@@ -1,4 +1,12 @@
+# Updated for Splunk 8
+This code has been updated and repackaged for use on Splunk 8 (and therefore, also Python 3).
 
+## tl;dr
+Grab and install these two Splunk apps
+
+[ImplementingSplunkDataGenerator](https://github.com/danaiello/Implementing-Splunk-7-Third-Edition-updated-for-Splunk-8/raw/master/releases/ImplementingSplunkDataGenerator_200.spl)
+
+[ImplementingSplunkExtendingExamples](https://github.com/danaiello/Implementing-Splunk-7-Third-Edition-updated-for-Splunk-8/raw/master/releases/ImplementingSplunkExtendingExamples_200.spl)
 
 
 # Implementing Splunk 7 - Third Edition

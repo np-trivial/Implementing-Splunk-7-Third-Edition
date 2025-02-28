@@ -1,0 +1,5 @@
+<doc><time>10:13:45</time><a>1</a><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b><c><d>dog</d><e>egg</e><f>fly</f></c></doc>
+<doc><time>12:12:35</time><a>1</a><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b><c><d>dog</d><e>egg</e><f>fly</f></c></doc>
+<reg><time>13:03:15</time><b>5</b><c>dog</c><e>egg</e><f>fly</f></reg>
+<d><time>13:03:15</time><cat>dog</cat><e>egg</e><f /></d>
+<bad><time>13:03:15</time><cat>dog</cat><e>egg</e><f /></d>

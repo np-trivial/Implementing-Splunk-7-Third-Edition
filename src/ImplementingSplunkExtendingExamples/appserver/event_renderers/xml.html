@@ -1,0 +1,19 @@
+<%inherit file="//results/EventsViewer_default_renderer.html" />\
+<%def name="event_raw(job, event, request, options, xslt)">\
+<%
+from xml.dom import minidom
+import sys
+
+def escape(i):
+    return i.replace("<", "&lt;").replace(">", "&gt;")
+
+_xml = str( event.fields.get('xml', event.fields['_raw']) )
+try:
+    pretty = minidom.parseString(_xml).toprettyxml(indent=' '*4)
+    pretty = escape( pretty )
+except Exception as inst:
+    pretty = escape(_xml)
+    pretty += "\n(couldn't format: " + str( inst ) + ")"
+%>
+<pre class="xml_eventtype">${pretty}</pre>
+</%def>

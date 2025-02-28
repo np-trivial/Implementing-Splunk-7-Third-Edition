@@ -1,0 +1,80 @@
+import splunk.Intersplunk as si
+import re
+import operator
+
+
+def increment_word_count(word_dict, word):
+    #make sure the word is in our dict
+    if word not in word_dict:
+        word_dict[word] = 0
+    #increase the value
+    word_dict[word] += 1
+
+
+if __name__ == '__main__':
+    try:
+        #get our results
+        results, dummyresults, settings = si.getOrganizedResults()
+        keywords, options = si.getKeywordsAndOptions()
+
+        #get mincount
+        try:
+            mincount = int(options.get('mincount', 50))
+        except Exception, e:
+            #raise a user friendly exception
+            raise Exception("mincount must be an integer")
+
+        #determine whether we should be case sensitive
+        casesensitive = options.get('casesensitive', False)
+        if casesensitive:
+            casesensitive = (casesensitive.lower().strip() in
+                             ['t', 'true', '1', 'y', 'yes'])
+
+        #create our dicts to hold word counts
+        counts = {}
+        unique_counts = {}
+
+        #create a rowcount variable that we will use later
+        rowcount = 0
+
+        #loop through the results
+        for r in results:
+            rowcount += 1
+            words = re.findall('\W*([a-zA-Z]+)\W*', r['_raw'])
+            unique_words = set()
+            for w in words:
+                if not casesensitive:
+                    w = w.lower()
+                increment_word_count(counts, w)
+                unique_words.add(w)
+
+            for w in unique_words:
+                increment_word_count(unique_counts, w)
+
+        #create an array of tuples,
+        #ordered by the count for each word
+        sorted_counts = sorted(counts.iteritems(),
+                               key=operator.itemgetter(1))
+        #reverse it
+        sorted_counts.reverse()
+
+        #build our results, which must be an array of dict
+        count_rows = []
+        for w, c in sorted_counts:
+            if mincount < 1 or c >= mincount:
+                u = unique_counts[w]
+                newrow = {'word': w,
+                          'count': str(c),
+                          'Events with word': str(u),
+                          'Event count': str(rowcount),
+                          'Percent of events with word':
+                          str(round(100.0 * u / rowcount, 2))}
+                count_rows.append(newrow)
+
+        si.outputResults(count_rows)
+
+    #catch the exception and show the error to the user
+    except Exception, e:
+        import traceback
+        stack = traceback.format_exc()
+        si.generateErrorResults("Error '%s'. %s" % (e, stack))

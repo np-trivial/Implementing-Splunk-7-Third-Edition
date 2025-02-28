@@ -1,0 +1,997 @@
+14:41:26 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=Bobby, ip=113.2.4.5, req_time=2533, session_id="OTQ5MjY2MDgy"
+14:41:26 level=ERROR, message="Don't worry, be happy. ", logger=FooClass, user=bob, ip=4.31.2.1, req_time=882
+14:41:26 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3., req_time=239, network=green
+14:41:25 level=ERROR, message="Don't worry, be happy. ", logger=AuthClass, ip=3.2.4.5, req_time=2430, network=red
+14:41:25 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=1.22.3.3, req_time=697
+14:41:24 level=DEBUG, message="Hello world. ", logger=BarClass, ip=1.22.3.3, req_time=325, user=extrauser
+14:41:23 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=113.2.4.5, req_time=1433, network=green
+14:41:23 level=INFO, message="Hello world. ", user=mary, ip=4.31.2.1, req_time=110, network=red
+14:41:23 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=3.2.4.5, req_time=455
+14:41:23 level=DEBUG, message="error, ERROR, Error! ", user=linda, ip=3.2.4.5, req_time=362, session_lengh=6776
+14:41:22 level=ERROR, message="Hello world. ", logger=FooClass, user=mary, ip=113.2.4.5, req_time=546
+14:41:21 level=INFO, message="Hello world. ", user=bob, ip=3.2.4.5, req_time=1860, network=red
+14:41:20 level=INFO, message="Hello world. ", logger=BarClass, user=jacky, ip=1.2.3., req_time=417
+14:41:20 level=WARN, message="Don't worry, be happy. ", logger=LogoutClass, user=Bobby, ip=1.22.3.3, req_time=1181
+14:41:20 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=1.22.3.3, req_time=109
+14:41:19 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, user=Bobby, ip=1.2.3.4, req_time=1302
+14:41:19 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=linda, req_time=7, network=green
+14:41:19 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=4.31.2.1, req_time=837
+14:41:18 level=INFO, message="Don't worry, be happy. ", logger=BarClass, ip=113.2.4.5, req_time=170, network=red
+14:41:18 level=INFO, message="Hello world. ", logger=BarClass, ip=4.31.2.1, req_time=661, network=green
+14:41:17 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, user=Bobby, ip=1.2.3.4, req_time=781
+14:41:17 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=3.2.4.5, req_time=529
+14:41:16 level=DEBUG, message="Hello world. ", logger=BarClass, ip=1.2.3., req_time=1147, user=extrauser
+14:41:16 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=linda, ip=113.2.4.5, req_time=408
+14:41:15 level=ERROR, message="Hello world. ", logger=BarClass, user=mary, req_time=423, network=red
+14:41:15 level=DEBUG, message="Hello world. ", logger=AuthClass, user=Bobby, ip=1.2.3.4, session_id="NDIwOTM3NTU1"
+14:41:15 level=WARN, message="Hello world. ", logger=BarClass, user=Bobby, req_time=4, session_lengh=1530
+14:41:14 level=ERROR, message="Don't worry, be happy. ", user=bob, ip=1.2.3., req_time=938, user=extrauser
+14:41:13 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=linda, ip=4.31.2.1, session_lengh=10181
+14:41:13 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=1.22.3.3, req_time=805
+14:41:12 level=WARN, message="Don't worry, be happy. ", user=mary, ip=1.22.3.3, req_time=49, session_id="ODAwMDkxMDEz"
+14:41:12 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=bob, req_time=1033, network=red
+14:41:12 level=WARN, message="Don't worry, be happy. ", logger=AuthClass, user=bob, ip=1.2.3.4, network=green
+14:41:11 level=INFO, message="error, ERROR, Error! ", logger=FooClass, user=Bobby, ip=3.2.4.5, session_id="NjI3MjM0OTY5"
+14:41:11 level=WARN, message="error, ERROR, Error! ", logger=FooClass, user=mary, ip=1.22.3.3, req_time=64
+14:41:10 level=WARN, message="Hello world. ", logger=BarClass, user=Bobby, ip=3.2.4.5, req_time=1079
+14:41:10 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=3.2.4.5, req_time=102
+14:41:09 level=DEBUG, message="Hello world. ", logger=AuthClass, user=Bobby, req_time=1456, session_id="OTkzOTMxNTMx"
+14:41:09 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=3.2.4.5, req_time=1721, network=green
+14:41:08 level=INFO, message="Hello world. ", logger=BarClass, user=linda, ip=1.2.3.4, req_time=819
+14:41:07 level=INFO, message="error, ERROR, Error! ", logger=AuthClass, user=jacky, ip=1.2.3., network=green
+14:41:06 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, req_time=752, session_lengh=9888
+14:41:05 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=1.2.3., req_time=517
+14:41:04 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=113.2.4.5, req_time=425
+14:41:04 level=WARN, message="Don't worry, be happy. ", user=mary, ip=113.2.4.5, req_time=1017, session_lengh=2053
+14:41:04 level=DEBUG, message="Don't worry, be happy. ", user=linda, ip=1.2.3., req_time=933, network=red
+14:41:03 level=DEBUG, message="Don't worry, be happy. ", logger=LogoutClass, user=Bobby, ip=3.2.4.5, network=red
+14:41:02 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=4.31.2.1, req_time=1212
+14:41:02 level=INFO, message="Hello world. ", logger=BarClass, user=bob, req_time=388, session_id="MjI5NzAxNzM="
+14:41:01 level=WARN, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, ip=4.31.2.1, user=extrauser
+14:41:01 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=bob, req_time=450, user=extrauser
+14:41:01 level=INFO, message="Don't worry, be happy. ", logger=BarClass, ip=1.22.3.3, req_time=66, session_id="MjMzNzg5OTUy"
+14:41:00 level=ERROR, message="Don't worry, be happy. ", logger=LogoutClass, ip=1.22.3.3, req_time=324, user=extrauser
+14:40:59 level=DEBUG, message="Hello world. ", logger=BarClass, user=jacky, ip=1.2.3., req_time=764
+14:40:59 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=bob, ip=1.22.3.3, req_time=723
+14:40:58 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=4.31.2.1, req_time=983
+14:40:57 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=3.2.4.5, network=red
+14:40:57 level=WARN, message="Hello world. ", logger=AuthClass, ip=1.2.3.4, req_time=312, network=green
+14:40:56 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=bob, req_time=205, network=red
+14:40:56 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=jacky, ip=113.2.4.5, session_id="MjYyMTE1ODI0"
+14:40:55 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=210, session_lengh=9577
+14:40:55 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=1.2.3., req_time=723
+14:40:55 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=jacky, ip=3.2.4.5, req_time=2542
+14:40:54 level=INFO, message="error, ERROR, Error! ", logger=FooClass, user=mary, ip=4.31.2.1, req_time=644
+14:40:53 level=ERROR, message="error, ERROR, Error! ", user=linda, ip=3.2.4.5, req_time=6, user=extrauser
+14:40:53 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, ip=3.2.4.5, req_time=1148, network=red
+14:40:52 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3.4, req_time=976, network=green
+14:40:52 level=ERROR, message="Don't worry, be happy. ", user=linda, ip=4.31.2.1, req_time=90, session_id="MzkzMTg0ODM0"
+14:40:52 level=INFO, message="error, ERROR, Error! ", user=jacky, ip=113.2.4.5, req_time=859, user=extrauser
+14:40:51 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=jacky, ip=1.2.3.4, network=green
+14:40:50 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=linda, req_time=958, session_lengh=163
+14:40:50 level=DEBUG, message="Hello world. ", logger=BarClass, user=mary, req_time=935, user=extrauser
+14:40:50 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=bob, req_time=997, user=extrauser
+14:40:50 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=jacky, ip=1.22.3.3, session_lengh=4375
+14:40:49 level=ERROR, message="error, ERROR, Error! ", logger=AuthClass, ip=1.2.3., req_time=107, user=extrauser
+14:40:48 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=747, session_id="NjE5MDI4NzQx"
+14:40:48 level=INFO, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, ip=1.2.3.4, req_time=195
+14:40:47 level=ERROR, message="Hello world. ", logger=FooClass, user=linda, req_time=706, session_id="NjM2MTI2NjU="
+14:40:47 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=4.31.2.1, session_lengh=8579
+14:40:46 level=ERROR, message="Don't worry, be happy. ", user=linda, ip=1.22.3.3, req_time=1238, session_id="MjEyNzEyMDU="
+14:40:46 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=4.31.2.1, network=green
+14:40:46 level=DEBUG, message="error, ERROR, Error! ", user=jacky, ip=1.2.3., req_time=171, session_lengh=9129
+14:40:45 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=1.2.3.4, req_time=1636
+14:40:44 level=ERROR, message="Hello world. ", logger=LogoutClass, user=bob, req_time=927, network=green
+14:40:43 level=ERROR, message="error, ERROR, Error! ", user=mary, ip=3.2.4.5, req_time=103, session_id="MzUzMjY1MTY1"
+14:40:43 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, ip=1.2.3., req_time=434
+14:40:42 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=3.2.4.5, req_time=2959, network=red
+14:40:42 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=1.22.3.3, session_id="NzU3MDkyODE="
+14:40:42 level=DEBUG, message="Hello world. ", logger=FooClass, ip=4.31.2.1, req_time=489, network=red
+14:40:41 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.2.3.4, req_time=193, network=green
+14:40:41 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=4.31.2.1, user=extrauser
+14:40:41 level=ERROR, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, ip=113.2.4.5, session_lengh=892
+14:40:40 level=ERROR, message="Hello world. ", logger=AuthClass, user=linda, ip=1.2.3., req_time=318
+14:40:40 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, req_time=891, user=extrauser
+14:40:40 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=1157, session_lengh=573
+14:40:39 level=INFO, message="Hello world. ", logger=AuthClass, user=bob, ip=1.22.3.3, network=green
+14:40:39 level=DEBUG, message="Hello world. ", user=linda, ip=1.22.3.3, req_time=236, network=red
+14:40:39 level=DEBUG, message="Don't worry, be happy. ", user=Bobby, ip=1.2.3.4, req_time=347, session_id="ODk2NTU5MDI0"
+14:40:38 level=WARN, message="Hello world. ", logger=BarClass, user=linda, ip=4.31.2.1, session_id="MTA1MjA4MTcz"
+14:40:37 level=DEBUG, message="Hello world. ", logger=BarClass, user=Bobby, ip=3.2.4.5, req_time=1485
+14:40:37 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=linda, req_time=838, network=green
+14:40:36 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=jacky, ip=4.31.2.1, req_time=1211
+14:40:35 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=507, network=green
+14:40:35 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3., req_time=942, network=red
+14:40:35 level=DEBUG, message="Don't worry, be happy. ", logger=FooClass, user=Bobby, ip=1.2.3., session_id="NzMzODQ1MzA3"
+14:40:34 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=linda, ip=3.2.4.5, req_time=606
+14:40:34 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=1.2.3., req_time=577
+14:40:33 level=INFO, message="Don't worry, be happy. ", logger=FooClass, user=linda, ip=1.22.3.3, user=extrauser
+14:40:33 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=486, user=extrauser
+14:40:32 level=INFO, message="error, ERROR, Error! ", logger=FooClass, user=jacky, ip=4.31.2.1, req_time=369
+14:40:31 level=WARN, message="Don't worry, be happy. ", logger=AuthClass, user=Bobby, ip=1.2.3.4, req_time=1140
+14:40:31 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=4.31.2.1, req_time=438
+14:40:31 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=4.31.2.1, req_time=674
+14:40:30 level=INFO, message="Hello world. ", logger=AuthClass, ip=113.2.4.5, req_time=428, network=red
+14:40:29 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=linda, ip=113.2.4.5, user=extrauser
+14:40:29 level=WARN, message="Hello world. ", user=mary, ip=1.2.3.4, req_time=95, network=red
+14:40:29 level=ERROR, message="Don't worry, be happy. ", user=mary, ip=1.22.3.3, req_time=1174, session_id="MjUxMjk1Mzk5"
+14:40:29 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=1255, user=extrauser
+14:40:28 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=193, user=extrauser
+14:40:27 level=ERROR, message="error, ERROR, Error! ", user=bob, ip=3.2.4.5, req_time=727, network=red
+14:40:27 level=ERROR, message="Hello world. ", user=jacky, ip=1.2.3., req_time=817, network=green
+14:40:27 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=3.2.4.5, network=green
+14:40:27 level=WARN, message="Don't worry, be happy. ", logger=FooClass, ip=113.2.4.5, req_time=106, session_lengh=2036
+14:40:26 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=1.2.3., req_time=307, session_lengh=3506
+14:40:25 level=INFO, message="Hello world. ", logger=FooClass, user=mary, ip=4.31.2.1, network=green
+14:40:25 level=ERROR, message="Hello world. ", logger=AuthClass, user=bob, req_time=1363, session_id="NTQzODc0NDY4"
+14:40:25 level=ERROR, message="Hello world. ", user=jacky, ip=3.2.4.5, req_time=174, network=red
+14:40:25 level=WARN, message="Don't worry, be happy. ", logger=FooClass, user=Bobby, req_time=911, network=red
+14:40:24 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.2.3., req_time=262, network=red
+14:40:23 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3., req_time=341, session_id="MjMzMzU1NDE4"
+14:40:23 level=WARN, message="Don't worry, be happy. ", logger=BarClass, ip=3.2.4.5, req_time=416, network=green
+14:40:22 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=1.22.3.3, network=green
+14:40:21 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=3.2.4.5, req_time=862
+14:40:21 level=WARN, message="error, ERROR, Error! ", logger=LogoutClass, user=linda, ip=1.22.3.3, req_time=605
+14:40:20 level=WARN, message="Hello world. ", logger=FooClass, ip=1.2.3., req_time=814, network=red
+14:40:20 level=DEBUG, message="error, ERROR, Error! ", logger=FooClass, ip=113.2.4.5, req_time=80, network=red
+14:40:19 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=linda, req_time=1025, network=green
+14:40:18 level=INFO, message="Don't worry, be happy. ", user=jacky, ip=3.2.4.5, req_time=584, network=red
+14:40:17 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, ip=3.2.4.5, req_time=19
+14:40:17 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=jacky, req_time=57, session_lengh=10513
+14:40:16 level=WARN, message="Hello world. ", logger=BarClass, ip=4.31.2.1, req_time=2034, user=extrauser
+14:40:16 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=bob, ip=1.2.3.4, session_lengh=53
+14:40:15 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.2.3.4, req_time=106, session_lengh=7570
+14:40:15 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=bob, req_time=651, session_id="NzYwMDkzMDgw"
+14:40:15 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=mary, ip=113.2.4.5, session_id="Mzc5MTg2NzYz"
+14:40:14 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=3.2.4.5, session_lengh=309
+14:40:14 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, ip=1.22.3.3, req_time=494, user=extrauser
+14:40:14 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=1.22.3.3, network=red
+14:40:13 level=INFO, message="Hello world. ", user=Bobby, ip=1.22.3.3, req_time=1226, network=red
+14:40:13 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, req_time=380, user=extrauser
+14:40:12 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, req_time=127, user=extrauser
+14:40:11 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=471, user=extrauser
+14:40:11 level=INFO, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, ip=3.2.4.5, session_lengh=175
+14:40:11 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, ip=113.2.4.5, req_time=136, session_id="OTc4MDMyNjY4"
+14:40:10 level=INFO, message="Don't worry, be happy. ", logger=BarClass, ip=113.2.4.5, req_time=1435, session_lengh=6128
+14:40:09 level=DEBUG, message="error, ERROR, Error! ", user=linda, ip=1.22.3.3, req_time=818, session_id="MjkyNzQ2Mzc3"
+14:40:09 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, ip=113.2.4.5, session_lengh=2008
+14:40:09 level=DEBUG, message="error, ERROR, Error! ", user=linda, ip=3.2.4.5, req_time=343, network=red
+14:40:09 level=WARN, message="Hello world. ", user=bob, ip=113.2.4.5, req_time=569, session_id="OTYwNDE2MDMz"
+14:40:08 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, req_time=1893, user=extrauser
+14:40:07 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=bob, req_time=7, network=red
+14:40:06 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=mary, ip=4.31.2.1, req_time=889
+14:40:06 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, ip=1.22.3.3, session_lengh=8224
+14:40:05 level=INFO, message="Don't worry, be happy. ", logger=BarClass, ip=113.2.4.5, req_time=182, user=extrauser
+14:40:05 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.2.3.4, req_time=496, network=red
+14:40:04 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=1.22.3.3, network=green
+14:40:04 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=4.31.2.1, session_id="OTUwOTgyNjUy"
+14:40:03 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, req_time=294, session_lengh=687
+14:40:03 level=WARN, message="Hello world. ", logger=BarClass, user=Bobby, req_time=1396, network=green
+14:40:02 level=WARN, message="Don't worry, be happy. ", logger=AuthClass, user=Bobby, ip=1.22.3.3, network=red
+14:40:01 level=DEBUG, message="Hello world. ", logger=LogoutClass, user=mary, req_time=154, session_id="NzEwMTQ3NDk0"
+14:40:01 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, ip=1.22.3.3, req_time=490, network=green
+14:40:00 level=DEBUG, message="Hello world. ", logger=AuthClass, user=jacky, ip=1.2.3.4, req_time=995
+14:40:00 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=1.2.3.4, req_time=801
+14:39:59 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=3.2.4.5, user=extrauser
+14:39:58 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=1690, session_id="NDY4MTM3NjYx"
+14:39:58 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=3.2.4.5, req_time=396
+14:39:58 level=WARN, message="Don't worry, be happy. ", logger=LogoutClass, ip=1.2.3., req_time=59, user=extrauser
+14:39:57 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=4.31.2.1, req_time=1519
+14:39:56 level=DEBUG, message="error, ERROR, Error! ", logger=FooClass, user=Bobby, req_time=63, network=red
+14:39:56 level=INFO, message="Hello world. ", user=mary, ip=4.31.2.1, req_time=936, session_id="NjYyMzc4NjQx"
+14:39:56 level=ERROR, message="Hello world. ", logger=BarClass, user=jacky, ip=4.31.2.1, session_lengh=5030
+14:39:55 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, ip=1.2.3., req_time=893, user=extrauser
+14:39:55 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", user=linda, ip=4.31.2.1, req_time=1037, user=extrauser
+14:39:54 level=DEBUG, message="Hello world. ", logger=BarClass, user=bob, req_time=263, session_lengh=5673
+14:39:54 level=WARN, message="error, ERROR, Error! ", user=jacky, ip=1.2.3., req_time=1488, network=red
+14:39:53 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=linda, req_time=768, session_lengh=1310
+14:39:53 level=WARN, message="error, ERROR, Error! ", logger=FooClass, ip=3.2.4.5, req_time=970, user=extrauser
+14:39:52 level=INFO, message="Don't worry, be happy. ", logger=FooClass, user=mary, ip=1.22.3.3, user=extrauser
+14:39:51 level=ERROR, message="Don't worry, be happy. ", user=Bobby, ip=4.31.2.1, req_time=271, user=extrauser
+14:39:51 level=INFO, message="Hello world. ", user=mary, ip=3.2.4.5, req_time=143, network=green
+14:39:51 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=jacky, ip=1.2.3., req_time=451
+14:39:51 level=DEBUG, message="error, ERROR, Error! ", logger=AuthClass, user=jacky, req_time=1307, session_id="ODY4MjA4ODY0"
+14:39:51 level=INFO, message="Don't worry, be happy. ", user=mary, ip=4.31.2.1, req_time=397, user=extrauser
+14:39:51 level=DEBUG, message="Don't worry, be happy. ", logger=AuthClass, ip=4.31.2.1, req_time=253, user=extrauser
+14:39:50 level=WARN, message="Don't worry, be happy. ", logger=AuthClass, ip=3.2.4.5, req_time=181, network=red
+14:39:50 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=985, network=red
+14:39:50 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=1.2.3.4, req_time=618
+14:39:50 level=DEBUG, message="Hello world. ", logger=FooClass, user=jacky, req_time=28, session_id="NTg2NzgzNDUw"
+14:39:50 level=WARN, message="Don't worry, be happy. ", logger=AuthClass, ip=4.31.2.1, req_time=605, user=extrauser
+14:39:49 level=ERROR, message="error, ERROR, Error! ", user=bob, ip=1.22.3.3, req_time=201, network=green
+14:39:49 level=DEBUG, message="Hello world. ", logger=BarClass, user=jacky, ip=1.2.3.4, req_time=1013
+14:39:48 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=1.2.3.4, req_time=512, user=extrauser
+14:39:48 level=ERROR, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3.4, session_lengh=2566
+14:39:47 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, req_time=1747, user=extrauser
+14:39:46 level=DEBUG, message="error, ERROR, Error! ", logger=FooClass, user=bob, ip=113.2.4.5, session_id="NjM5MjczNTk0"
+14:39:46 level=DEBUG, message="error, ERROR, Error! ", logger=LogoutClass, ip=1.2.3., req_time=823, network=green
+14:39:45 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, req_time=322, user=extrauser
+14:39:45 level=INFO, message="Hello world. ", logger=BarClass, user=bob, ip=1.22.3.3, req_time=161
+14:39:45 level=DEBUG, message="Hello world. ", logger=AuthClass, user=bob, ip=1.2.3.4, network=green
+14:39:45 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, req_time=585, network=red
+14:39:44 level=ERROR, message="error, ERROR, Error! ", user=bob, ip=1.2.3.4, req_time=329, user=extrauser
+14:39:44 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=998, session_id="MjkxNzYzODY3"
+14:39:43 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=320, session_id="NTI3ODQxNjM3"
+14:39:43 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=1.2.3.4, req_time=201
+14:39:42 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=bob, ip=4.31.2.1, req_time=1333
+14:39:41 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=jacky, req_time=583, user=extrauser
+14:39:41 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=1162, network=red
+14:39:40 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, ip=3.2.4.5, req_time=658
+14:39:40 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3.4, req_time=903, user=extrauser
+14:39:39 level=INFO, message="error, ERROR, Error! ", user=linda, ip=3.2.4.5, req_time=671, user=extrauser
+14:39:38 level=INFO, message="error, ERROR, Error! ", user=jacky, ip=1.2.3., req_time=333, session_id="NzUzMDg5MTI4"
+14:39:37 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=Bobby, req_time=577, session_lengh=1598
+14:39:37 level=INFO, message="Hello world. ", logger=BarClass, user=mary, ip=113.2.4.5, user=extrauser
+14:39:36 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=113.2.4.5, session_id="NDQ4NzQ4ODUw"
+14:39:35 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=113.2.4.5, req_time=771
+14:39:35 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=4.31.2.1, req_time=2579, user=extrauser
+14:39:35 level=DEBUG, message="Hello world. ", logger=AuthClass, user=mary, ip=3.2.4.5, req_time=116
+14:39:34 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=jacky, ip=1.2.3.4, req_time=199
+14:39:33 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=1.2.3., network=green
+14:39:33 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=jacky, req_time=535, network=green
+14:39:33 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=113.2.4.5, network=red
+14:39:33 level=WARN, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, req_time=783, session_id="MjA0MjY5ODM1"
+14:39:33 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=1.2.3., req_time=103
+14:39:32 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=linda, req_time=805, session_lengh=6087
+14:39:31 level=INFO, message="error, ERROR, Error! ", logger=FooClass, user=jacky, req_time=686, session_id="OTAzMTA2NDcy"
+14:39:30 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=linda, ip=1.2.3., network=green
+14:39:30 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=3.2.4.5, req_time=384
+14:39:30 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, req_time=139, user=extrauser
+14:39:29 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=4.31.2.1, req_time=420, network=red
+14:39:29 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=4.31.2.1, req_time=402
+14:39:28 level=WARN, message="Hello world. ", logger=BarClass, ip=4.31.2.1, req_time=1223, network=green
+14:39:28 level=INFO, message="error, ERROR, Error! ", logger=FooClass, user=mary, ip=1.2.3.4, user=extrauser
+14:39:28 level=DEBUG, message="error, ERROR, Error! ", user=mary, ip=1.2.3.4, req_time=99, session_id="NjQzNDQ1MTQ4"
+14:39:27 level=ERROR, message="error, ERROR, Error! ", logger=FooClass, user=mary, req_time=690, session_id="MTE2NjM2OTkw"
+14:39:27 level=INFO, message="Hello world. ", logger=BarClass, ip=3.2.4.5, req_time=510, network=red
+14:39:26 level=DEBUG, message="Hello world. ", logger=BarClass, ip=113.2.4.5, req_time=468, session_lengh=115
+14:39:26 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, req_time=1527, user=extrauser
+14:39:26 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3., req_time=2622, network=green
+14:39:26 level=ERROR, message="error, ERROR, Error! ", user=linda, ip=1.2.3., req_time=519, network=green
+14:39:25 level=ERROR, message="Don't worry, be happy. ", logger=LogoutClass, ip=1.2.3.4, req_time=1376, network=green
+14:39:24 level=INFO, message="Hello world. ", logger=BarClass, user=Bobby, ip=1.2.3., req_time=1844
+14:39:24 level=DEBUG, message="error, ERROR, Error! ", logger=AuthClass, user=Bobby, ip=1.2.3., req_time=495
+14:39:23 level=INFO, message="error, ERROR, Error! ", user=mary, ip=1.2.3.4, req_time=1571, session_lengh=10856
+14:39:23 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=4.31.2.1, network=green
+14:39:22 level=INFO, message="error, ERROR, Error! ", logger=AuthClass, ip=1.22.3.3, req_time=647, network=red
+14:39:22 level=DEBUG, message="error, ERROR, Error! ", user=mary, ip=113.2.4.5, req_time=1168, session_id="NDQ3MDUzODMx"
+14:39:21 level=DEBUG, message="Hello world. ", logger=LogoutClass, user=mary, ip=3.2.4.5, req_time=2142
+14:39:21 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=691, user=extrauser
+14:39:20 level=INFO, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, ip=1.22.3.3, network=red
+14:39:20 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=bob, req_time=379, user=extrauser
+14:39:20 level=DEBUG, message="Hello world. ", user=mary, ip=113.2.4.5, req_time=1231, network=green
+14:39:20 level=INFO, message="Hello world. ", logger=BarClass, user=linda, ip=1.22.3.3, req_time=393
+14:39:19 level=DEBUG, message="error, ERROR, Error! ", logger=LogoutClass, user=bob, ip=3.2.4.5, network=green
+14:39:19 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=bob, ip=1.2.3., network=red
+14:39:19 level=DEBUG, message="error, ERROR, Error! ", user=jacky, ip=113.2.4.5, req_time=887, user=extrauser
+14:39:19 level=INFO, message="error, ERROR, Error! ", user=linda, ip=4.31.2.1, req_time=688, session_id="NzAzOTIyNzUz"
+14:39:18 level=INFO, message="Hello world. ", logger=BarClass, user=mary, req_time=807, network=green
+14:39:18 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, ip=1.22.3.3, req_time=1641, user=extrauser
+14:39:18 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, req_time=95, network=green
+14:39:17 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=1.2.3., req_time=51
+14:39:17 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, user=mary, ip=1.2.3.4, network=red
+14:39:16 level=WARN, message="Hello world. ", user=mary, ip=3.2.4.5, req_time=294, session_lengh=7944
+14:39:15 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=1.2.3., session_lengh=2324
+14:39:15 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, ip=1.22.3.3, req_time=1028, network=red
+14:39:15 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=4.31.2.1, req_time=292, session_lengh=2456
+14:39:14 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=113.2.4.5, req_time=313, session_id="NzM0NTQxNTc0"
+14:39:13 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=1.22.3.3, network=red
+14:39:13 level=ERROR, message="Hello world. ", logger=BarClass, user=mary, req_time=145, session_lengh=1310
+14:39:12 level=DEBUG, message="error, ERROR, Error! ", logger=LogoutClass, user=Bobby, req_time=84, session_lengh=10016
+14:39:11 level=INFO, message="Hello world. ", user=bob, ip=1.2.3.4, req_time=1129, session_id="MjQ0ODQzMjEy"
+14:39:11 level=INFO, message="Don't worry, be happy. ", user=linda, ip=1.2.3., req_time=209, network=red
+14:39:10 level=INFO, message="Hello world. ", logger=BarClass, user=bob, ip=113.2.4.5, req_time=1122
+14:39:09 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=linda, ip=3.2.4.5, req_time=735
+14:39:09 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3., req_time=2184, network=red
+14:39:09 level=DEBUG, message="Don't worry, be happy. ", user=Bobby, ip=1.2.3.4, req_time=141, session_lengh=4627
+14:39:08 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=jacky, ip=4.31.2.1, req_time=278
+14:39:08 level=DEBUG, message="Don't worry, be happy. ", user=mary, ip=1.2.3.4, req_time=383, network=red
+14:39:07 level=WARN, message="error, ERROR, Error! ", logger=FooClass, ip=1.22.3.3, req_time=242, session_lengh=9211
+14:39:06 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=linda, req_time=1840, user=extrauser
+14:39:05 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, ip=113.2.4.5, req_time=327, user=extrauser
+14:39:05 level=ERROR, message="Don't worry, be happy. ", user=mary, ip=4.31.2.1, req_time=405, session_lengh=9489
+14:39:05 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=4.31.2.1, req_time=621, user=extrauser
+14:39:04 level=ERROR, message="Hello world. ", logger=AuthClass, ip=1.2.3.4, req_time=1549, user=extrauser
+14:39:04 level=INFO, message="error, ERROR, Error! ", user=mary, ip=3.2.4.5, req_time=622, network=green
+14:39:03 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=1.2.3.4, req_time=1976
+14:39:02 level=ERROR, message="Don't worry, be happy. ", user=mary, ip=1.22.3.3, req_time=501, network=green
+14:39:01 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, req_time=1594, network=green
+14:39:01 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=bob, ip=4.31.2.1, req_time=548
+14:39:01 level=DEBUG, message="Hello world. ", logger=FooClass, user=mary, ip=4.31.2.1, session_lengh=9066
+14:39:01 level=DEBUG, message="error, ERROR, Error! ", user=jacky, ip=4.31.2.1, req_time=538, network=green
+14:39:00 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=113.2.4.5, req_time=711, network=red
+14:39:00 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=1.22.3.3, req_time=497
+14:38:59 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, ip=1.2.3., session_id="NjA3ODA2MjIy"
+14:38:58 level=WARN, message="Hello world. ", logger=BarClass, user=mary, req_time=1200, network=green
+14:38:57 level=DEBUG, message="Hello world. ", logger=BarClass, user=Bobby, req_time=2020, session_lengh=3790
+14:38:57 level=ERROR, message="Hello world. ", logger=LogoutClass, ip=113.2.4.5, req_time=1086, network=green
+14:38:56 level=WARN, message="Don't worry, be happy. ", logger=BarClass, ip=3.2.4.5, req_time=843, session_id="MjE2MjY3NzE3"
+14:38:56 level=INFO, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3.4, req_time=1692, user=extrauser
+14:38:56 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=2110, network=green
+14:38:56 level=ERROR, message="error, ERROR, Error! ", logger=LogoutClass, user=bob, ip=1.2.3., req_time=175
+14:38:56 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=Bobby, ip=3.2.4.5, req_time=314
+14:38:55 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=linda, ip=3.2.4.5, session_lengh=9289
+14:38:54 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=1.2.3., user=extrauser
+14:38:54 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=680, session_lengh=8980
+14:38:53 level=ERROR, message="error, ERROR, Error! ", logger=FooClass, user=jacky, ip=1.22.3.3, req_time=1316
+14:38:53 level=ERROR, message="Hello world. ", user=linda, ip=1.2.3.4, req_time=1153, user=extrauser
+14:38:53 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=bob, ip=3.2.4.5, req_time=354
+14:38:52 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=113.2.4.5, network=green
+14:38:51 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, req_time=460, session_id="MTU3NzI1NDg4"
+14:38:51 level=INFO, message="Hello world. ", logger=FooClass, user=linda, ip=113.2.4.5, req_time=147
+14:38:51 level=DEBUG, message="Hello world. ", user=jacky, ip=1.2.3.4, req_time=2568, session_id="MTUxNDUxNzk4"
+14:38:50 level=DEBUG, message="Don't worry, be happy. ", logger=FooClass, ip=1.2.3.4, req_time=1099, session_id="MzgzMjQxMDk3"
+14:38:49 level=INFO, message="Hello world. ", logger=BarClass, user=jacky, ip=113.2.4.5, req_time=95
+14:38:49 level=WARN, message="Hello world. ", user=bob, ip=1.2.3., req_time=634, network=green
+14:38:48 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=4.31.2.1, req_time=1015
+14:38:48 level=WARN, message="Hello world. ", user=linda, ip=3.2.4.5, req_time=842, network=green
+14:38:47 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=mary, ip=1.22.3.3, network=red
+14:38:47 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=bob, req_time=58, network=green
+14:38:46 level=ERROR, message="Hello world. ", logger=AuthClass, user=jacky, ip=1.2.3., req_time=71
+14:38:45 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=505, session_lengh=500
+14:38:44 level=WARN, message="Hello world. ", logger=BarClass, ip=1.22.3.3, req_time=50, session_lengh=2048
+14:38:43 level=ERROR, message="Hello world. ", logger=BarClass, user=bob, req_time=913, session_lengh=2221
+14:38:43 level=DEBUG, message="Don't worry, be happy. ", logger=AuthClass, user=mary, ip=3.2.4.5, req_time=980
+14:38:42 level=DEBUG, message="Hello world. ", logger=LogoutClass, user=mary, req_time=672, user=extrauser
+14:38:41 level=INFO, message="Don't worry, be happy. ", user=Bobby, ip=113.2.4.5, req_time=1182, user=extrauser
+14:38:41 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=3.2.4.5, req_time=819, user=extrauser
+14:38:41 level=ERROR, message="Hello world. ", logger=AuthClass, user=bob, ip=4.31.2.1, req_time=506
+14:38:40 level=DEBUG, message="error, ERROR, Error! ", user=linda, ip=1.22.3.3, req_time=331, network=green
+14:38:40 level=WARN, message="Don't worry, be happy. ", logger=AuthClass, user=linda, ip=113.2.4.5, req_time=153
+14:38:39 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=4.31.2.1, req_time=238, network=red
+14:38:38 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=jacky, ip=4.31.2.1, req_time=1910
+14:38:38 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=1.22.3.3, req_time=650
+14:38:37 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, ip=4.31.2.1, session_id="NjU5MzQyMjk0"
+14:38:37 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, req_time=2113, network=green
+14:38:36 level=INFO, message="Don't worry, be happy. ", logger=FooClass, ip=1.2.3.4, req_time=210, network=red
+14:38:35 level=ERROR, message="error, ERROR, Error! ", logger=LogoutClass, ip=3.2.4.5, req_time=820, session_lengh=10270
+14:38:35 level=INFO, message="Hello world. ", logger=BarClass, user=bob, ip=1.22.3.3, network=green
+14:38:34 level=ERROR, message="Hello world. ", logger=BarClass, user=jacky, ip=1.2.3., session_lengh=9856
+14:38:34 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=Bobby, ip=1.2.3., req_time=905, session_id="NzY3MDMwNzYy"
+14:38:33 level=ERROR, message="Hello world. ", logger=BarClass, user=Bobby, ip=1.22.3.3, req_time=965
+14:38:33 level=WARN, message="Don't worry, be happy. ", logger=AuthClass, user=jacky, ip=1.2.3.4, req_time=732
+14:38:33 level=INFO, message="Hello world. ", logger=BarClass, ip=113.2.4.5, req_time=1165, session_id="OTI2NTc5MDky"
+14:38:32 level=INFO, message="Hello world. ", logger=BarClass, user=mary, req_time=1193, network=red
+14:38:32 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, req_time=832, session_lengh=11387
+14:38:31 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, ip=4.31.2.1, req_time=680, session_lengh=8441
+14:38:31 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=838, session_lengh=8903
+14:38:30 level=ERROR, message="error, ERROR, Error! ", logger=FooClass, user=mary, ip=113.2.4.5, session_id="NzcxOTMxNjY5"
+14:38:29 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=113.2.4.5, req_time=1045, session_lengh=9071
+14:38:29 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, user=bob, ip=3.2.4.5, req_time=827
+14:38:29 level=INFO, message="Hello world. ", logger=LogoutClass, ip=3.2.4.5, req_time=982, session_id="ODQzNTYzODE="
+14:38:28 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=1.2.3.4, session_lengh=2731
+14:38:27 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=373, network=red
+14:38:26 level=INFO, message="error, ERROR, Error! ", logger=BarClass, ip=4.31.2.1, req_time=709, user=extrauser
+14:38:26 level=DEBUG, message="Hello world. ", logger=BarClass, user=linda, req_time=1194, network=red
+14:38:25 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=4.31.2.1, req_time=542, user=extrauser
+14:38:25 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=113.2.4.5, req_time=891, session_lengh=9770
+14:38:25 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=3.2.4.5, req_time=78
+14:38:24 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, req_time=1216, network=red
+14:38:23 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=1.2.3., req_time=878
+14:38:22 level=ERROR, message="error, ERROR, Error! ", user=mary, ip=113.2.4.5, req_time=586, user=extrauser
+14:38:22 level=DEBUG, message="Hello world. ", user=mary, ip=1.2.3.4, req_time=778, network=red
+14:38:21 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=4.31.2.1, req_time=1241, session_lengh=1090
+14:38:21 level=WARN, message="Hello world. ", logger=BarClass, ip=4.31.2.1, req_time=1615, network=red
+14:38:20 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=mary, req_time=1972, network=green
+14:38:20 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, ip=113.2.4.5, req_time=293, user=extrauser
+14:38:19 level=DEBUG, message="error, ERROR, Error! ", logger=LogoutClass, user=jacky, req_time=823, session_id="MTg4MTU4Mzc3"
+14:38:19 level=INFO, message="Hello world. ", logger=BarClass, user=linda, ip=3.2.4.5, user=extrauser
+14:38:19 level=WARN, message="Hello world. ", user=mary, ip=4.31.2.1, req_time=1503, network=green
+14:38:18 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=113.2.4.5, req_time=1432, session_id="Mzc2NTY3NTA2"
+14:38:18 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=bob, ip=113.2.4.5, req_time=250, user=extrauser
+14:38:17 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=1.22.3.3, req_time=402
+14:38:17 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, ip=1.2.3.4, req_time=1263
+14:38:16 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=1.2.3., network=green
+14:38:16 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=linda, ip=1.2.3.4, req_time=32, network=red
+14:38:15 level=WARN, message="error, ERROR, Error! ", logger=FooClass, user=mary, ip=1.2.3., req_time=680
+14:38:14 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=bob, req_time=376, session_lengh=10242
+14:38:13 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, ip=113.2.4.5, req_time=754, session_lengh=9757
+14:38:13 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=1.2.3., req_time=1119
+14:38:12 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=Bobby, ip=3.2.4.5, req_time=1145
+14:38:12 level=INFO, message="Hello world. ", logger=BarClass, user=linda, ip=4.31.2.1, session_lengh=1522
+14:38:11 level=INFO, message="error, ERROR, Error! ", logger=FooClass, user=jacky, req_time=405, session_lengh=4178
+14:38:11 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=mary, req_time=199, network=red
+14:38:11 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=1.22.3.3, network=red
+14:38:10 level=INFO, message="error, ERROR, Error! ", logger=FooClass, user=mary, req_time=100, network=green
+14:38:09 level=INFO, message="Hello world. ", logger=BarClass, user=mary, req_time=201, network=red
+14:38:09 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=1.2.3.4, network=red
+14:38:08 level=DEBUG, message="Don't worry, be happy. ", user=jacky, ip=1.2.3., req_time=576, session_lengh=1558
+14:38:08 level=ERROR, message="Hello world. ", logger=AuthClass, user=mary, ip=4.31.2.1, req_time=1188
+14:38:07 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=1.2.3.4, req_time=1495
+14:38:07 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=1.2.3., user=extrauser
+14:38:07 level=INFO, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3., req_time=1391
+14:38:06 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", user=linda, ip=1.22.3.3, req_time=920, user=extrauser
+14:38:06 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=mary, req_time=1572, session_lengh=12228
+14:38:05 level=ERROR, message="error, ERROR, Error! ", logger=LogoutClass, ip=4.31.2.1, req_time=438, user=extrauser
+14:38:04 level=ERROR, message="Hello world. ", logger=BarClass, user=bob, ip=113.2.4.5, network=red
+14:38:04 level=WARN, message="Don't worry, be happy. ", user=linda, ip=4.31.2.1, req_time=567, session_id="NjQyMzE1MTM4"
+14:38:03 level=INFO, message="Hello world. ", logger=FooClass, user=linda, req_time=584, user=extrauser
+14:38:03 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=113.2.4.5, req_time=212, session_lengh=5517
+14:38:03 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", user=Bobby, ip=1.22.3.3, req_time=215, user=extrauser
+14:38:02 level=WARN, message="Don't worry, be happy. ", logger=LogoutClass, ip=1.2.3.4, req_time=930, network=red
+14:38:01 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=4.31.2.1, req_time=494
+14:38:01 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=4.31.2.1, req_time=571, network=red
+14:38:00 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=1.2.3.4, req_time=2031
+14:38:00 level=WARN, message="Hello world. ", user=mary, ip=1.2.3.4, req_time=833, session_lengh=701
+14:37:59 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=3.2.4.5, req_time=819, network=red
+14:37:59 level=DEBUG, message="Don't worry, be happy. ", user=Bobby, ip=1.2.3.4, req_time=754, network=red
+14:37:58 level=INFO, message="error, ERROR, Error! ", user=linda, ip=113.2.4.5, req_time=1360, network=green
+14:37:58 level=WARN, message="error, ERROR, Error! ", user=mary, ip=113.2.4.5, req_time=1338, session_lengh=129
+14:37:57 level=INFO, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, ip=1.2.3., network=green
+14:37:56 level=ERROR, message="error, ERROR, Error! ", logger=LogoutClass, user=mary, ip=3.2.4.5, session_lengh=8049
+14:37:55 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=mary, req_time=180, network=red
+14:37:55 level=ERROR, message="Don't worry, be happy. ", user=bob, ip=4.31.2.1, req_time=1240, user=extrauser
+14:37:55 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=4.31.2.1, req_time=477, user=extrauser
+14:37:55 level=INFO, message="Hello world. ", user=Bobby, ip=1.2.3., req_time=1330, session_id="ODc1MDc4NjYw"
+14:37:54 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, ip=3.2.4.5, req_time=1410, session_lengh=451
+14:37:54 level=DEBUG, message="error, ERROR, Error! ", logger=AuthClass, user=Bobby, req_time=99, session_id="MjI2MDQ0NjQ3"
+14:37:53 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, ip=4.31.2.1, req_time=1128, network=red
+14:37:53 level=WARN, message="Hello world. ", logger=BarClass, user=jacky, ip=113.2.4.5, req_time=1360
+14:37:53 level=DEBUG, message="error, ERROR, Error! ", user=jacky, ip=3.2.4.5, req_time=975, session_lengh=2833
+14:37:52 level=WARN, message="Hello world. ", logger=BarClass, user=Bobby, req_time=809, session_id="NjA2MTA3NTgw"
+14:37:51 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, ip=1.2.3.4, network=red
+14:37:51 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, req_time=1648, network=red
+14:37:50 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=3.2.4.5, req_time=265, user=extrauser
+14:37:50 level=WARN, message="error, ERROR, Error! ", user=linda, ip=113.2.4.5, req_time=26, session_id="MzQyNjcxMTMy"
+14:37:49 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=bob, ip=1.2.3., req_time=1200, network=green
+14:37:48 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, user=jacky, ip=1.2.3.4, user=extrauser
+14:37:48 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=4.31.2.1, user=extrauser
+14:37:48 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=1.22.3.3, req_time=969
+14:37:47 level=ERROR, message="Don't worry, be happy. ", logger=AuthClass, ip=1.22.3.3, req_time=793, session_id="NTE0Mzc0NDk2"
+14:37:47 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=4.31.2.1, req_time=780
+14:37:47 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3., req_time=38, session_lengh=3631
+14:37:46 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, req_time=37, network=green
+14:37:45 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=1.2.3.4, req_time=1392
+14:37:45 level=DEBUG, message="Hello world. ", logger=BarClass, user=jacky, ip=3.2.4.5, req_time=313
+14:37:44 level=ERROR, message="Hello world. ", user=mary, ip=4.31.2.1, req_time=694, session_lengh=9095
+14:37:44 level=WARN, message="error, ERROR, Error! ", user=Bobby, ip=3.2.4.5, req_time=174, user=extrauser
+14:37:44 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=1.2.3., session_lengh=4431
+14:37:43 level=ERROR, message="Hello world. ", logger=AuthClass, ip=1.2.3.4, req_time=459, network=red
+14:37:43 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=4.31.2.1, req_time=1299
+14:37:42 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=bob, ip=3.2.4.5, session_lengh=2943
+14:37:42 level=WARN, message="Don't worry, be happy. ", logger=LogoutClass, ip=4.31.2.1, req_time=983, session_lengh=2388
+14:37:42 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=1.22.3.3, req_time=1395, session_id="NDE5NzgyODMy"
+14:37:41 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=Bobby, ip=113.2.4.5, req_time=816
+14:37:41 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=1.22.3.3, req_time=1470, session_id="MjQ2Mjk5NTU4"
+14:37:40 level=ERROR, message="error, ERROR, Error! ", logger=FooClass, ip=1.22.3.3, req_time=1070, user=extrauser
+14:37:39 level=INFO, message="Hello world. ", logger=AuthClass, user=mary, ip=3.2.4.5, session_id="MjU3Nzg2OTgx"
+14:37:39 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, req_time=1409, session_lengh=6118
+14:37:39 level=INFO, message="error, ERROR, Error! ", user=mary, ip=1.2.3.4, req_time=94, network=red
+14:37:39 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, req_time=692, session_id="ODQwNDA2NjI3"
+14:37:38 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=113.2.4.5, user=extrauser
+14:37:37 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, ip=4.31.2.1, req_time=616, network=red
+14:37:37 level=INFO, message="Hello world. ", logger=BarClass, user=jacky, ip=3.2.4.5, session_id="ODU0MTY4NDcz"
+14:37:36 level=ERROR, message="Don't worry, be happy. ", logger=LogoutClass, user=linda, ip=1.22.3.3, req_time=1351
+14:37:36 level=DEBUG, message="Hello world. ", user=linda, ip=113.2.4.5, req_time=937, network=green
+14:37:36 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=bob, ip=4.31.2.1, req_time=0, network=red
+14:37:35 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, ip=1.22.3.3, req_time=151
+14:37:35 level=WARN, message="Hello world. ", logger=FooClass, user=linda, ip=1.22.3.3, session_lengh=1670
+14:37:34 level=WARN, message="error, ERROR, Error! ", user=linda, ip=3.2.4.5, req_time=1619, network=green
+14:37:33 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=1.2.3.4, network=green
+14:37:33 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, ip=4.31.2.1, req_time=514
+14:37:33 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, ip=1.2.3.4, req_time=416, network=green
+14:37:33 level=INFO, message="Hello world. ", logger=BarClass, user=jacky, ip=4.31.2.1, req_time=1037
+14:37:32 level=ERROR, message="error, ERROR, Error! ", logger=LogoutClass, user=jacky, ip=1.22.3.3, req_time=831
+14:37:32 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", user=bob, ip=3.2.4.5, req_time=120, network=green
+14:37:32 level=DEBUG, message="Hello world. ", logger=BarClass, ip=1.22.3.3, req_time=277, session_lengh=664
+14:37:31 level=INFO, message="error, ERROR, Error! ", logger=BarClass, ip=3.2.4.5, req_time=1979, session_lengh=2909
+14:37:30 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=3.2.4.5, req_time=544, session_id="MzE1MDE3MDE0"
+14:37:30 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=1.2.3.4, session_lengh=11407
+14:37:29 level=DEBUG, message="Hello world. ", logger=BarClass, user=linda, req_time=561, network=red
+14:37:28 level=DEBUG, message="Don't worry, be happy. ", logger=AuthClass, user=linda, ip=4.31.2.1, req_time=320
+14:37:28 level=ERROR, message="Hello world. ", user=mary, ip=4.31.2.1, req_time=496, network=red
+14:37:27 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, req_time=862, network=red
+14:37:27 level=INFO, message="Don't worry, be happy. ", user=Bobby, ip=1.22.3.3, req_time=282, network=red
+14:37:26 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, req_time=497, network=green
+14:37:25 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=4.31.2.1, req_time=1471
+14:37:25 level=INFO, message="Don't worry, be happy. ", logger=BarClass, ip=113.2.4.5, req_time=1747, user=extrauser
+14:37:24 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=4.31.2.1, req_time=720, user=extrauser
+14:37:24 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=mary, req_time=2679, session_lengh=3291
+14:37:24 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=jacky, ip=1.2.3.4, req_time=269
+14:37:23 level=DEBUG, message="Hello world. ", logger=LogoutClass, user=Bobby, ip=1.22.3.3, req_time=1104
+14:37:23 level=WARN, message="error, ERROR, Error! ", logger=FooClass, user=linda, ip=4.31.2.1, req_time=716
+14:37:22 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, ip=1.2.3., req_time=276
+14:37:21 level=INFO, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, ip=113.2.4.5, req_time=263
+14:37:21 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=1.2.3.4, req_time=1159
+14:37:20 level=DEBUG, message="Hello world. ", user=Bobby, ip=1.22.3.3, req_time=52, session_lengh=8617
+14:37:20 level=WARN, message="error, ERROR, Error! ", logger=FooClass, user=bob, req_time=405, network=green
+14:37:19 level=WARN, message="Hello world. ", logger=LogoutClass, user=bob, ip=4.31.2.1, session_lengh=1142
+14:37:19 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=mary, ip=1.2.3.4, network=green
+14:37:19 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=1378, network=red
+14:37:18 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.2.3., req_time=1066, network=red
+14:37:18 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=113.2.4.5, user=extrauser
+14:37:17 level=DEBUG, message="Hello world. ", logger=BarClass, user=linda, req_time=1652, session_lengh=2681
+14:37:17 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=4.31.2.1, req_time=96, session_id="NTA1NjY2NzU1"
+14:37:16 level=DEBUG, message="Hello world. ", logger=BarClass, ip=113.2.4.5, req_time=583, user=extrauser
+14:37:16 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, ip=3.2.4.5, req_time=355
+14:37:15 level=ERROR, message="Hello world. ", logger=BarClass, user=linda, req_time=2103, user=extrauser
+14:37:14 level=DEBUG, message="Hello world. ", logger=LogoutClass, user=Bobby, ip=1.2.3., req_time=975
+14:37:13 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=bob, ip=4.31.2.1, network=green
+14:37:13 level=DEBUG, message="Hello world. ", logger=BarClass, user=jacky, ip=1.2.3.4, req_time=21
+14:37:13 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=linda, ip=1.2.3., network=green
+14:37:12 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3.4, req_time=136, session_id="NDY4NDAwNTE1"
+14:37:11 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=4.31.2.1, req_time=905, network=green
+14:37:10 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=830, network=red
+14:37:10 level=WARN, message="Hello world. ", logger=BarClass, user=bob, ip=113.2.4.5, user=extrauser
+14:37:10 level=WARN, message="error, ERROR, Error! ", logger=LogoutClass, user=Bobby, req_time=1096, user=extrauser
+14:37:09 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, ip=113.2.4.5, req_time=1054, user=extrauser
+14:37:08 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=3.2.4.5, req_time=538
+14:37:08 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=1.22.3.3, network=green
+14:37:08 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, req_time=139, network=green
+14:37:07 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=1277, network=green
+14:37:07 level=INFO, message="Don't worry, be happy. ", user=jacky, ip=113.2.4.5, req_time=1905, session_id="OTE4ODc1NDcz"
+14:37:07 level=INFO, message="Hello world. ", user=Bobby, ip=4.31.2.1, req_time=59, session_lengh=1160
+14:37:07 level=DEBUG, message="Hello world. ", logger=FooClass, user=linda, req_time=4, network=red
+14:37:06 level=ERROR, message="error, ERROR, Error! ", user=jacky, ip=113.2.4.5, req_time=656, user=extrauser
+14:37:06 level=WARN, message="Hello world. ", logger=BarClass, user=mary, ip=4.31.2.1, req_time=328
+14:37:05 level=WARN, message="Hello world. ", logger=BarClass, user=linda, ip=113.2.4.5, network=red
+14:37:04 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=linda, req_time=951, user=extrauser
+14:37:04 level=INFO, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, req_time=2346, network=green
+14:37:03 level=DEBUG, message="error, ERROR, Error! ", user=linda, ip=1.22.3.3, req_time=1128, network=red
+14:37:03 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=bob, req_time=236, session_id="MTQyNDMwMzg="
+14:37:03 level=ERROR, message="Don't worry, be happy. ", user=linda, ip=1.2.3.4, req_time=453, network=red
+14:37:02 level=ERROR, message="Hello world. ", logger=FooClass, user=mary, req_time=979, session_lengh=2088
+14:37:01 level=WARN, message="Hello world. ", logger=BarClass, ip=1.22.3.3, req_time=325, network=red
+14:37:01 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=1.2.3.4, req_time=3133
+14:37:00 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, ip=1.2.3., session_lengh=11096
+14:36:59 level=ERROR, message="Don't worry, be happy. ", user=bob, ip=4.31.2.1, req_time=852, session_id="ODM1NjY4ODM5"
+14:36:59 level=ERROR, message="Don't worry, be happy. ", logger=LogoutClass, ip=1.22.3.3, req_time=362, network=red
+14:36:59 level=ERROR, message="error, ERROR, Error! ", logger=AuthClass, user=jacky, req_time=867, session_id="OTM4NDI0Njk="
+14:36:58 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=bob, ip=1.2.3., req_time=133, session_id="NDE2NDE3NzAy"
+14:36:58 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=113.2.4.5, req_time=1402
+14:36:57 level=WARN, message="error, ERROR, Error! ", logger=LogoutClass, user=bob, ip=3.2.4.5, network=green
+14:36:56 level=ERROR, message="Hello world. ", user=bob, ip=3.2.4.5, req_time=91, network=red
+14:36:56 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.2.3.4, req_time=358, session_id="MzE3NzE1MTk0"
+14:36:55 level=WARN, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3.4, req_time=2571
+14:36:54 level=WARN, message="Hello world. ", logger=BarClass, user=linda, ip=3.2.4.5, session_id="NDA4MjYzMTI2"
+14:36:53 level=WARN, message="Don't worry, be happy. ", logger=LogoutClass, user=jacky, ip=1.2.3.4, req_time=1484
+14:36:53 level=WARN, message="Hello world. ", user=bob, ip=3.2.4.5, req_time=964, session_lengh=9797
+14:36:53 level=WARN, message="Hello world. ", logger=LogoutClass, user=Bobby, req_time=597, network=red
+14:36:52 level=WARN, message="Hello world. ", logger=BarClass, user=bob, ip=113.2.4.5, network=green
+14:36:52 level=ERROR, message="error, ERROR, Error! ", user=mary, ip=3.2.4.5, req_time=746, network=green
+14:36:52 level=WARN, message="error, ERROR, Error! ", user=bob, ip=1.22.3.3, req_time=263, session_id="MzQ1ODc4MjU2"
+14:36:51 level=ERROR, message="error, ERROR, Error! ", user=jacky, ip=1.2.3.4, req_time=979, user=extrauser
+14:36:51 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=jacky, ip=1.22.3.3, req_time=861
+14:36:50 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, ip=4.31.2.1, req_time=1640
+14:36:50 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=1.2.3., req_time=103
+14:36:50 level=INFO, message="Hello world. ", logger=BarClass, user=mary, ip=113.2.4.5, req_time=1319
+14:36:49 level=ERROR, message="Hello world. ", logger=BarClass, user=mary, ip=4.31.2.1, req_time=952
+14:36:49 level=WARN, message="Hello world. ", logger=AuthClass, user=bob, ip=1.22.3.3, session_lengh=8446
+14:36:48 level=INFO, message="error, ERROR, Error! ", user=mary, ip=1.2.3.4, req_time=1504, session_lengh=4301
+14:36:48 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, req_time=1251, network=red
+14:36:47 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=jacky, req_time=770, session_id="NjY4OTk3NjU4"
+14:36:46 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, ip=1.22.3.3, req_time=177
+14:36:45 level=DEBUG, message="Don't worry, be happy. ", logger=FooClass, user=mary, req_time=491, session_id="NTQ5MTY4NTA3"
+14:36:44 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=1.2.3., req_time=251
+14:36:43 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, req_time=482, session_id="Njk0MTU4OTU1"
+14:36:43 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3.4, req_time=724, session_lengh=1577
+14:36:42 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=1.22.3.3, req_time=479
+14:36:41 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=4.31.2.1, req_time=657, network=red
+14:36:41 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=mary, req_time=320, user=extrauser
+14:36:40 level=ERROR, message="Hello world. ", logger=LogoutClass, user=mary, req_time=501, network=red
+14:36:40 level=WARN, message="Hello world. ", logger=BarClass, user=jacky, ip=1.22.3.3, user=extrauser
+14:36:39 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, user=linda, ip=1.2.3., req_time=428
+14:36:38 level=INFO, message="error, ERROR, Error! ", logger=LogoutClass, user=jacky, ip=3.2.4.5, network=green
+14:36:38 level=WARN, message="Don't worry, be happy. ", logger=FooClass, user=jacky, ip=1.2.3., req_time=153
+14:36:37 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=1.22.3.3, req_time=832
+14:36:36 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=3.2.4.5, req_time=422, network=green
+14:36:36 level=DEBUG, message="Hello world. ", logger=FooClass, ip=4.31.2.1, req_time=943, network=green
+14:36:35 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, ip=1.2.3.4, req_time=904, session_id="MjA3OTg4MDY5"
+14:36:35 level=INFO, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3., req_time=102, session_lengh=1497
+14:36:34 level=DEBUG, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3., session_id="Mzk1NTY4NDU="
+14:36:34 level=WARN, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3.4, req_time=480, session_id="MzkwODc0NjA2"
+14:36:33 level=INFO, message="error, ERROR, Error! ", user=mary, ip=1.2.3.4, req_time=679, network=green
+14:36:33 level=INFO, message="error, ERROR, Error! ", user=bob, ip=3.2.4.5, req_time=967, network=red
+14:36:32 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=113.2.4.5, network=red
+14:36:32 level=INFO, message="error, ERROR, Error! ", logger=LogoutClass, user=bob, ip=4.31.2.1, req_time=357
+14:36:32 level=ERROR, message="Hello world. ", user=mary, ip=1.22.3.3, req_time=1302, network=green
+14:36:31 level=WARN, message="Don't worry, be happy. ", logger=AuthClass, user=mary, req_time=963, session_id="ODkyMjU3MTEy"
+14:36:30 level=WARN, message="Don't worry, be happy. ", user=linda, ip=1.2.3., req_time=573, network=green
+14:36:29 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=jacky, ip=3.2.4.5, network=red
+14:36:29 level=DEBUG, message="Don't worry, be happy. ", logger=LogoutClass, user=bob, ip=4.31.2.1, session_lengh=2891
+14:36:29 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=jacky, req_time=1372, session_id="MjMwMjIxNjY2"
+14:36:28 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, ip=1.22.3.3, req_time=502
+14:36:28 level=WARN, message="Hello world. ", logger=BarClass, user=mary, req_time=261, network=red
+14:36:27 level=DEBUG, message="error, ERROR, Error! ", logger=AuthClass, ip=1.22.3.3, req_time=810, user=extrauser
+14:36:26 level=INFO, message="Don't worry, be happy. ", logger=AuthClass, user=Bobby, ip=4.31.2.1, session_lengh=2078
+14:36:26 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=4.31.2.1, req_time=325, user=extrauser
+14:36:25 level=WARN, message="Hello world. ", user=mary, ip=1.2.3.4, req_time=312, session_lengh=2377
+14:36:25 level=WARN, message="Hello world. ", logger=LogoutClass, user=mary, ip=1.2.3.4, req_time=1687
+14:36:24 level=DEBUG, message="Hello world. ", logger=BarClass, ip=113.2.4.5, req_time=1119, session_id="NzAzMjIyMzIx"
+14:36:23 level=ERROR, message="Hello world. ", logger=BarClass, user=linda, ip=113.2.4.5, session_id="MzM0NDgyMTY="
+14:36:23 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=1.2.3., req_time=103, network=red
+14:36:23 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=bob, req_time=666, network=red
+14:36:23 level=INFO, message="Hello world. ", logger=AuthClass, user=bob, ip=113.2.4.5, network=green
+14:36:22 level=WARN, message="Hello world. ", logger=BarClass, user=mary, ip=113.2.4.5, req_time=408
+14:36:22 level=ERROR, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3., req_time=1273
+14:36:21 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, req_time=1237, network=red
+14:36:21 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=1.2.3.4, req_time=624
+14:36:20 level=WARN, message="Hello world. ", logger=BarClass, user=mary, ip=113.2.4.5, req_time=2531
+14:36:19 level=WARN, message="Don't worry, be happy. ", logger=LogoutClass, user=linda, ip=1.2.3., network=red
+14:36:19 level=INFO, message="Hello world. ", logger=AuthClass, user=mary, req_time=796, session_lengh=5060
+14:36:19 level=INFO, message="Hello world. ", user=mary, ip=4.31.2.1, req_time=1026, network=green
+14:36:19 level=ERROR, message="Don't worry, be happy. ", logger=FooClass, user=linda, req_time=690, network=red
+14:36:18 level=ERROR, message="Hello world. ", logger=LogoutClass, user=mary, ip=4.31.2.1, network=green
+14:36:18 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=linda, ip=1.22.3.3, session_lengh=346
+14:36:17 level=ERROR, message="error, ERROR, Error! ", logger=FooClass, user=mary, req_time=1688, network=red
+14:36:17 level=ERROR, message="Don't worry, be happy. ", logger=FooClass, ip=1.22.3.3, req_time=1049, network=green
+14:36:17 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=1.2.3.4, session_id="NjI4NjA5OTg3"
+14:36:16 level=WARN, message="error, ERROR, Error! ", logger=LogoutClass, user=linda, ip=1.22.3.3, network=green
+14:36:16 level=WARN, message="error, ERROR, Error! ", user=Bobby, ip=1.22.3.3, req_time=239, session_id="MjE3MTcwMTA3"
+14:36:15 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=jacky, ip=1.2.3., session_id="OTE4MDcyNDM4"
+14:36:15 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", user=Bobby, ip=1.2.3.4, req_time=2229, user=extrauser
+14:36:14 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=3.2.4.5, req_time=1917, session_lengh=11166
+14:36:14 level=DEBUG, message="error, ERROR, Error! ", user=jacky, ip=1.2.3.4, req_time=1622, network=green
+14:36:13 level=INFO, message="Hello world. ", logger=BarClass, user=mary, ip=1.22.3.3, session_id="Mzc1MDU2NDEy"
+14:36:12 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, ip=113.2.4.5, req_time=253, network=green
+14:36:12 level=INFO, message="Hello world. ", logger=LogoutClass, user=linda, req_time=986, user=extrauser
+14:36:11 level=ERROR, message="Don't worry, be happy. ", user=mary, ip=113.2.4.5, req_time=380, user=extrauser
+14:36:11 level=DEBUG, message="error, ERROR, Error! ", logger=FooClass, ip=1.22.3.3, req_time=170, session_id="NjQ5OTYxODY1"
+14:36:10 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=113.2.4.5, session_lengh=3399
+14:36:10 level=WARN, message="error, ERROR, Error! ", user=linda, ip=1.2.3., req_time=733, user=extrauser
+14:36:09 level=INFO, message="Hello world. ", user=mary, ip=113.2.4.5, req_time=637, network=red
+14:36:09 level=INFO, message="error, ERROR, Error! ", logger=BarClass, ip=113.2.4.5, req_time=754, session_id="ODg3NjM0ODg2"
+14:36:08 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=1.2.3.4, network=green
+14:36:08 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=1.2.3., session_lengh=8587
+14:36:07 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=1.2.3.4, session_lengh=3222
+14:36:06 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=1208, network=green
+14:36:06 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=Bobby, ip=113.2.4.5, req_time=200
+14:36:05 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=1.2.3.4, req_time=1306, user=extrauser
+14:36:04 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=4.31.2.1, req_time=766, user=extrauser
+14:36:04 level=DEBUG, message="Hello world. ", logger=LogoutClass, user=mary, req_time=702, user=extrauser
+14:36:04 level=WARN, message="Hello world. ", logger=BarClass, user=Bobby, req_time=660, network=red
+14:36:04 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=4.31.2.1, req_time=200, user=extrauser
+14:36:03 level=DEBUG, message="Don't worry, be happy. ", logger=LogoutClass, user=jacky, ip=1.2.3., session_lengh=10525
+14:36:03 level=ERROR, message="error, ERROR, Error! ", user=mary, ip=113.2.4.5, req_time=277, session_id="ODI4MDA3Njc2"
+14:36:03 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, req_time=1220, network=red
+14:36:02 level=INFO, message="Hello world. ", logger=BarClass, user=mary, ip=113.2.4.5, session_id="NjMwOTM5OTk="
+14:36:01 level=DEBUG, message="Hello world. ", logger=LogoutClass, user=Bobby, ip=113.2.4.5, session_lengh=11608
+14:36:00 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=bob, req_time=441, user=extrauser
+14:36:00 level=INFO, message="error, ERROR, Error! ", user=mary, ip=3.2.4.5, req_time=366, session_id="OTcwMjY5MzY4"
+14:35:59 level=WARN, message="error, ERROR, Error! ", logger=FooClass, user=bob, ip=113.2.4.5, session_id="MTc3NTQ2MDEx"
+14:35:58 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=jacky, req_time=92, network=red
+14:35:57 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=3.2.4.5, req_time=935
+14:35:57 level=WARN, message="Don't worry, be happy. ", user=jacky, ip=3.2.4.5, req_time=229, session_id="NTQwNDI3MDQ2"
+14:35:56 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=3.2.4.5, req_time=1171, user=extrauser
+14:35:56 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=Bobby, ip=113.2.4.5, user=extrauser
+14:35:55 level=INFO, message="Hello world. ", logger=BarClass, user=bob, ip=1.2.3.4, req_time=2141
+14:35:54 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=1.2.3., req_time=299
+14:35:54 level=DEBUG, message="error, ERROR, Error! ", logger=LogoutClass, user=mary, ip=1.2.3., req_time=383
+14:35:54 level=INFO, message="Hello world. ", logger=BarClass, user=mary, ip=4.31.2.1, req_time=1340
+14:35:53 level=DEBUG, message="Don't worry, be happy. ", logger=AuthClass, user=jacky, ip=1.2.3., session_lengh=8886
+14:35:52 level=ERROR, message="Don't worry, be happy. ", user=mary, ip=1.22.3.3, req_time=331, network=green
+14:35:52 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=jacky, ip=1.2.3.4, network=red
+14:35:51 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, user=mary, ip=3.2.4.5, req_time=1693
+14:35:51 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=bob, req_time=578, session_id="OTAxMzU2Nzcz"
+14:35:50 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=48, user=extrauser
+14:35:50 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=bob, ip=1.2.3.4, req_time=25
+14:35:49 level=INFO, message="Hello world. ", logger=FooClass, user=mary, ip=4.31.2.1, network=green
+14:35:49 level=ERROR, message="Hello world. ", logger=BarClass, user=linda, ip=113.2.4.5, req_time=116
+14:35:49 level=WARN, message="Don't worry, be happy. ", logger=BarClass, ip=4.31.2.1, req_time=143, session_lengh=3242
+14:35:48 level=WARN, message="Don't worry, be happy. ", user=mary, ip=4.31.2.1, req_time=470, network=green
+14:35:47 level=ERROR, message="Hello world. ", logger=AuthClass, ip=1.2.3.4, req_time=1509, session_lengh=10185
+14:35:47 level=WARN, message="error, ERROR, Error! ", logger=FooClass, user=jacky, ip=1.22.3.3, req_time=118
+14:35:46 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=4.31.2.1, req_time=1424, network=green
+14:35:46 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=linda, req_time=113, user=extrauser
+14:35:46 level=ERROR, message="Hello world. ", logger=BarClass, user=linda, ip=3.2.4.5, req_time=706
+14:35:46 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=1442, network=red
+14:35:45 level=ERROR, message="Don't worry, be happy. ", logger=AuthClass, user=bob, ip=1.22.3.3, req_time=682
+14:35:45 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=4.31.2.1, req_time=541, session_lengh=2835
+14:35:44 level=INFO, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, ip=1.22.3.3, user=extrauser
+14:35:43 level=DEBUG, message="Hello world. ", logger=FooClass, user=mary, ip=4.31.2.1, user=extrauser
+14:35:42 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=1.2.3.4, req_time=616, session_id="NjE0NDYzODI0"
+14:35:41 level=WARN, message="error, ERROR, Error! ", logger=LogoutClass, user=Bobby, ip=1.2.3., req_time=480
+14:35:41 level=DEBUG, message="Hello world. ", logger=BarClass, user=jacky, req_time=483, network=green
+14:35:41 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=bob, req_time=972, session_lengh=821
+14:35:40 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=bob, req_time=1723, session_id="OTc4MjcyNTcz"
+14:35:39 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=jacky, ip=4.31.2.1, req_time=291
+14:35:39 level=ERROR, message="Hello world. ", logger=BarClass, user=Bobby, ip=1.2.3., user=extrauser
+14:35:38 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=linda, req_time=702, session_lengh=7892
+14:35:37 level=WARN, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3., network=green
+14:35:37 level=INFO, message="Hello world. ", logger=BarClass, user=bob, ip=4.31.2.1, network=red
+14:35:37 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, ip=3.2.4.5, req_time=260, user=extrauser
+14:35:36 level=INFO, message="Don't worry, be happy. ", user=Bobby, ip=113.2.4.5, req_time=15, network=red
+14:35:35 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=1698, user=extrauser
+14:35:34 level=DEBUG, message="Don't worry, be happy. ", logger=LogoutClass, ip=1.2.3., req_time=1788, user=extrauser
+14:35:34 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, ip=3.2.4.5, req_time=1269, session_id="NjU5MjQ5NzE5"
+14:35:34 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=3.2.4.5, req_time=364
+14:35:33 level=INFO, message="Hello world. ", user=mary, ip=4.31.2.1, req_time=188, session_lengh=4337
+14:35:33 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=3.2.4.5, network=red
+14:35:32 level=ERROR, message="Don't worry, be happy. ", logger=FooClass, user=bob, ip=3.2.4.5, req_time=2312
+14:35:31 level=INFO, message="error, ERROR, Error! ", user=Bobby, ip=1.2.3., req_time=505, network=red
+14:35:30 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=113.2.4.5, req_time=655
+14:35:30 level=ERROR, message="Hello world. ", logger=LogoutClass, user=bob, req_time=2397, session_lengh=3348
+14:35:29 level=WARN, message="Hello world. ", logger=BarClass, ip=1.2.3.4, req_time=1115, network=green
+14:35:29 level=ERROR, message="Don't worry, be happy. ", user=linda, ip=1.2.3., req_time=406, session_lengh=9013
+14:35:28 level=INFO, message="Hello world. ", logger=BarClass, ip=113.2.4.5, req_time=1452, network=red
+14:35:28 level=INFO, message="error, ERROR, Error! ", logger=FooClass, ip=113.2.4.5, req_time=1964, session_lengh=2539
+14:35:27 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=1.22.3.3, req_time=590, session_lengh=5088
+14:35:27 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=1.2.3., req_time=668, network=green
+14:35:27 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=1774, session_lengh=4543
+14:35:26 level=DEBUG, message="error, ERROR, Error! ", user=linda, ip=4.31.2.1, req_time=533, network=red
+14:35:26 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=bob, ip=1.2.3., req_time=243
+14:35:25 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, req_time=1094, network=red
+14:35:25 level=WARN, message="Hello world. ", user=bob, ip=1.2.3.4, req_time=206, session_lengh=9148
+14:35:25 level=WARN, message="Hello world. ", logger=BarClass, user=linda, ip=1.2.3., req_time=1635
+14:35:24 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=3.2.4.5, req_time=636
+14:35:24 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, user=mary, ip=1.2.3.4, req_time=202
+14:35:23 level=DEBUG, message="Don't worry, be happy. ", logger=LogoutClass, ip=4.31.2.1, req_time=646, network=green
+14:35:23 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=1.2.3., network=red
+14:35:23 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=mary, req_time=115, session_id="Nzc1MTI2NTQ="
+14:35:22 level=INFO, message="Hello world. ", logger=BarClass, user=linda, ip=3.2.4.5, network=red
+14:35:21 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=113.2.4.5, req_time=509
+14:35:20 level=INFO, message="Hello world. ", logger=BarClass, user=Bobby, ip=4.31.2.1, session_lengh=8237
+14:35:20 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=mary, ip=1.22.3.3, req_time=803
+14:35:19 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=bob, ip=1.22.3.3, req_time=543
+14:35:19 level=DEBUG, message="error, ERROR, Error! ", logger=LogoutClass, user=linda, req_time=1321, session_id="Mjc2NjAwNDk2"
+14:35:19 level=ERROR, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, req_time=223, session_lengh=3476
+14:35:19 level=DEBUG, message="Hello world. ", logger=FooClass, ip=1.2.3., req_time=238, user=extrauser
+14:35:18 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3., req_time=341, session_id="MTMzMzA1NDIz"
+14:35:17 level=DEBUG, message="Hello world. ", logger=BarClass, ip=3.2.4.5, req_time=126, network=red
+14:35:16 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, ip=1.22.3.3, req_time=994, session_lengh=5482
+14:35:16 level=ERROR, message="Hello world. ", logger=BarClass, ip=3.2.4.5, req_time=1051, network=green
+14:35:15 level=DEBUG, message="error, ERROR, Error! ", logger=AuthClass, user=mary, ip=3.2.4.5, session_lengh=1996
+14:35:15 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=4.31.2.1, session_lengh=5859
+14:35:14 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, req_time=1203, network=green
+14:35:13 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=mary, req_time=103, user=extrauser
+14:35:13 level=INFO, message="Don't worry, be happy. ", user=Bobby, ip=3.2.4.5, req_time=1161, network=green
+14:35:12 level=DEBUG, message="Don't worry, be happy. ", user=Bobby, ip=1.22.3.3, req_time=529, network=green
+14:35:12 level=WARN, message="Don't worry, be happy. ", user=jacky, ip=113.2.4.5, req_time=502, session_lengh=753
+14:35:11 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, ip=3.2.4.5, req_time=53, user=extrauser
+14:35:11 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=1.2.3.4, req_time=618
+14:35:11 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=bob, req_time=806, network=red
+14:35:10 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=46, session_lengh=9336
+14:35:10 level=INFO, message="error, ERROR, Error! ", logger=LogoutClass, ip=1.22.3.3, req_time=698, user=extrauser
+14:35:09 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=921, network=green
+14:35:08 level=INFO, message="Hello world. ", logger=FooClass, user=mary, ip=113.2.4.5, req_time=1377
+14:35:08 level=INFO, message="Hello world. ", logger=BarClass, user=linda, req_time=736, network=green
+14:35:07 level=ERROR, message="Don't worry, be happy. ", logger=FooClass, ip=3.2.4.5, req_time=161, network=red
+14:35:07 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=jacky, ip=1.2.3.4, req_time=1605
+14:35:07 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=Bobby, ip=1.2.3.4, req_time=533, session_id="ODA4MzE2OTY3"
+14:35:06 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=3.2.4.5, network=red
+14:35:06 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, req_time=136, user=extrauser
+14:35:05 level=DEBUG, message="error, ERROR, Error! ", user=mary, ip=1.2.3.4, req_time=788, network=red
+14:35:04 level=ERROR, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3.4, network=green
+14:35:04 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=3.2.4.5, req_time=448
+14:35:03 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, req_time=1019, session_lengh=1632
+14:35:03 level=DEBUG, message="Hello world. ", logger=BarClass, user=jacky, req_time=1187, session_id="Njc1MjYyODAy"
+14:35:02 level=ERROR, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, req_time=1497, session_lengh=6500
+14:35:02 level=ERROR, message="Hello world. ", user=jacky, ip=1.2.3.4, req_time=290, network=green
+14:35:02 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, ip=1.22.3.3, req_time=1551, session_lengh=9540
+14:35:01 level=WARN, message="Hello world. ", logger=BarClass, ip=3.2.4.5, req_time=1520, session_id="MTU0MjY0MzU1"
+14:35:01 level=ERROR, message="Don't worry, be happy. ", user=bob, ip=1.22.3.3, req_time=306, session_lengh=9726
+14:35:01 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=1.22.3.3, network=green
+14:35:01 level=WARN, message="Hello world. ", logger=FooClass, user=jacky, ip=1.22.3.3, req_time=1040
+14:35:00 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=bob, ip=113.2.4.5, req_time=1026, user=extrauser
+14:34:59 level=ERROR, message="Hello world. ", logger=BarClass, ip=1.2.3., req_time=443, network=green
+14:34:59 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=605, network=red
+14:34:58 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=bob, req_time=293, network=red
+14:34:58 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=1649, session_id="OTEyNDgyOTQx"
+14:34:58 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, req_time=104, network=red
+14:34:57 level=INFO, message="Hello world. ", user=linda, ip=4.31.2.1, req_time=3, network=green
+14:34:57 level=INFO, message="Don't worry, be happy. ", user=linda, ip=113.2.4.5, req_time=832, network=green
+14:34:57 level=INFO, message="Don't worry, be happy. ", logger=LogoutClass, ip=113.2.4.5, req_time=727, network=green
+14:34:56 level=INFO, message="error, ERROR, Error! ", user=bob, ip=113.2.4.5, req_time=1891, network=green
+14:34:56 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=1.2.3., req_time=75
+14:34:55 level=DEBUG, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3., network=green
+14:34:54 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=jacky, ip=113.2.4.5, req_time=983, network=green
+14:34:54 level=WARN, message="Hello world. ", logger=BarClass, user=mary, ip=3.2.4.5, user=extrauser
+14:34:54 level=ERROR, message="error, ERROR, Error! ", logger=AuthClass, user=mary, req_time=902, session_id="ODI0MjA1Nzk3"
+14:34:53 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=4.31.2.1, req_time=582
+14:34:53 level=WARN, message="Hello world. ", logger=BarClass, user=linda, ip=1.2.3.4, req_time=1509
+14:34:53 level=WARN, message="Hello world. ", logger=BarClass, ip=4.31.2.1, req_time=363, session_lengh=2851
+14:34:52 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=4.31.2.1, req_time=60
+14:34:52 level=WARN, message="Hello world. ", logger=BarClass, user=linda, ip=1.2.3., req_time=978
+14:34:52 level=DEBUG, message="Hello world. ", logger=AuthClass, user=mary, ip=1.22.3.3, user=extrauser
+14:34:51 level=INFO, message="Don't worry, be happy. ", logger=FooClass, user=linda, ip=113.2.4.5, network=green
+14:34:51 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=4.31.2.1, req_time=322, user=extrauser
+14:34:50 level=ERROR, message="Hello world. ", logger=BarClass, user=linda, ip=1.2.3., req_time=290
+14:34:50 level=INFO, message="error, ERROR, Error! ", logger=LogoutClass, ip=1.2.3., req_time=704, user=extrauser
+14:34:49 level=DEBUG, message="error, ERROR, Error! ", user=mary, ip=1.2.3., req_time=1748, session_lengh=816
+14:34:48 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=3.2.4.5, req_time=35
+14:34:47 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, ip=3.2.4.5, session_lengh=2524
+14:34:47 level=INFO, message="Hello world. ", logger=BarClass, ip=1.22.3.3, req_time=1246, session_id="OTQ1NjExNjkx"
+14:34:46 level=ERROR, message="error, ERROR, Error! ", logger=AuthClass, user=linda, req_time=1067, user=extrauser
+14:34:45 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=113.2.4.5, req_time=1164
+14:34:45 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=1.2.3.4, req_time=510
+14:34:44 level=INFO, message="Don't worry, be happy. ", logger=BarClass, ip=1.22.3.3, req_time=1626, user=extrauser
+14:34:44 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=3.2.4.5, req_time=282
+14:34:44 level=DEBUG, message="Hello world. ", user=mary, ip=4.31.2.1, req_time=1, session_id="ODgwNzcxMTA4"
+14:34:43 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=jacky, req_time=150, network=red
+14:34:43 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, req_time=714, network=red
+14:34:42 level=ERROR, message="Hello world. ", logger=LogoutClass, ip=4.31.2.1, req_time=793, network=red
+14:34:41 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=mary, req_time=1536, user=extrauser
+14:34:40 level=DEBUG, message="Don't worry, be happy. ", user=mary, ip=1.2.3.4, req_time=1074, session_lengh=9058
+14:34:40 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=3.2.4.5, req_time=514, session_lengh=8021
+14:34:40 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=3.2.4.5, req_time=822, session_id="OTE0Nzc5MDE2"
+14:34:40 level=DEBUG, message="Hello world. ", user=mary, ip=1.2.3.4, req_time=1957, network=red
+14:34:39 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=Bobby, ip=4.31.2.1, req_time=578
+14:34:38 level=ERROR, message="Hello world. ", logger=BarClass, ip=1.22.3.3, req_time=2534, user=extrauser
+14:34:37 level=WARN, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3., req_time=1462, network=green
+14:34:37 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, ip=1.22.3.3, req_time=1088
+14:34:36 level=INFO, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3.4, req_time=1357, network=green
+14:34:36 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=Bobby, ip=113.2.4.5, session_id="NzAwODk4ODg4"
+14:34:35 level=WARN, message="Don't worry, be happy. ", logger=AuthClass, user=bob, req_time=431, session_lengh=11602
+14:34:35 level=DEBUG, message="Hello world. ", logger=FooClass, user=linda, ip=113.2.4.5, network=green
+14:34:34 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=mary, req_time=1198, network=red
+14:34:33 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, req_time=614, network=red
+14:34:33 level=ERROR, message="error, ERROR, Error! ", logger=AuthClass, user=bob, ip=3.2.4.5, req_time=1517
+14:34:32 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=bob, req_time=190, network=green
+14:34:32 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, ip=1.2.3.4, req_time=99, network=red
+14:34:31 level=DEBUG, message="Hello world. ", user=Bobby, ip=1.22.3.3, req_time=17, network=red
+14:34:31 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.2.3.4, req_time=1371, session_lengh=4639
+14:34:31 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=4.31.2.1, req_time=367, network=green
+14:34:30 level=ERROR, message="Don't worry, be happy. ", user=mary, ip=1.2.3.4, req_time=35, session_lengh=9797
+14:34:30 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3.4, req_time=199, network=red
+14:34:30 level=DEBUG, message="Hello world. ", logger=FooClass, user=mary, ip=1.22.3.3, req_time=350
+14:34:29 level=INFO, message="Hello world. ", logger=AuthClass, user=jacky, ip=3.2.4.5, req_time=587
+14:34:29 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=113.2.4.5, req_time=1270, network=green
+14:34:28 level=WARN, message="Hello world. ", logger=LogoutClass, user=mary, req_time=259, network=green
+14:34:28 level=ERROR, message="Hello world. ", logger=BarClass, ip=1.2.3.4, req_time=1006, user=extrauser
+14:34:27 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=113.2.4.5, req_time=574, session_lengh=10794
+14:34:27 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=1.22.3.3, req_time=312
+14:34:26 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3.4, req_time=1300, user=extrauser
+14:34:26 level=WARN, message="Hello world. ", logger=BarClass, user=Bobby, req_time=448, session_id="Njk3NjkwMDE0"
+14:34:26 level=DEBUG, message="Hello world. ", logger=BarClass, user=jacky, ip=1.2.3.4, req_time=1452
+14:34:26 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=424, network=green
+14:34:26 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=4.31.2.1, req_time=747, session_lengh=2602
+14:34:25 level=ERROR, message="error, ERROR, Error! ", logger=AuthClass, user=linda, ip=3.2.4.5, network=green
+14:34:25 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=4.31.2.1, session_lengh=6024
+14:34:24 level=WARN, message="Don't worry, be happy. ", user=linda, ip=1.2.3.4, req_time=885, network=red
+14:34:23 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=113.2.4.5, req_time=902
+14:34:23 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, ip=4.31.2.1, req_time=71, session_lengh=9533
+14:34:22 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=bob, ip=113.2.4.5, network=green
+14:34:22 level=ERROR, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, req_time=840, network=red
+14:34:22 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=113.2.4.5, network=green
+14:34:21 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.22.3.3, req_time=556, session_lengh=874
+14:34:21 level=ERROR, message="Hello world. ", user=linda, ip=1.2.3.4, req_time=173, network=green
+14:34:20 level=INFO, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3.4, req_time=1597, user=extrauser
+14:34:20 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=1.2.3., req_time=108
+14:34:20 level=INFO, message="error, ERROR, Error! ", user=bob, ip=113.2.4.5, req_time=228, user=extrauser
+14:34:19 level=INFO, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3., req_time=722
+14:34:18 level=DEBUG, message="Don't worry, be happy. ", logger=AuthClass, user=mary, ip=3.2.4.5, user=extrauser
+14:34:18 level=DEBUG, message="Don't worry, be happy. ", user=mary, ip=3.2.4.5, req_time=1785, user=extrauser
+14:34:17 level=DEBUG, message="Hello world. ", user=Bobby, ip=113.2.4.5, req_time=328, user=extrauser
+14:34:17 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=mary, req_time=274, user=extrauser
+14:34:16 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=linda, ip=1.2.3.4, network=green
+14:34:15 level=ERROR, message="Don't worry, be happy. ", user=mary, ip=113.2.4.5, req_time=97, user=extrauser
+14:34:15 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=645, network=green
+14:34:14 level=ERROR, message="error, ERROR, Error! ", logger=LogoutClass, user=mary, req_time=1531, network=red
+14:34:14 level=INFO, message="Hello world. ", logger=BarClass, ip=3.2.4.5, req_time=734, session_id="Mjc1MjE5OTUy"
+14:34:13 level=WARN, message="Hello world. ", logger=AuthClass, user=linda, ip=3.2.4.5, session_id="NDEzNTAzMTAy"
+14:34:13 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=3.2.4.5, req_time=1282
+14:34:13 level=WARN, message="Hello world. ", user=mary, ip=1.22.3.3, req_time=191, network=red
+14:34:12 level=WARN, message="Hello world. ", user=linda, ip=4.31.2.1, req_time=178, session_id="MjIwOTA3MzI1"
+14:34:11 level=INFO, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3., session_lengh=2094
+14:34:11 level=INFO, message="Hello world. ", logger=BarClass, user=mary, req_time=229, session_lengh=9268
+14:34:10 level=INFO, message="Hello world. ", user=mary, ip=1.2.3., req_time=784, session_id="MzE1MzE0MDY4"
+14:34:09 level=INFO, message="Hello world. ", logger=BarClass, user=bob, req_time=352, user=extrauser
+14:34:09 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=1.22.3.3, session_lengh=9765
+14:34:09 level=INFO, message="Hello world. ", logger=BarClass, user=mary, ip=3.2.4.5, req_time=1445
+14:34:08 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=mary, req_time=1976, network=red
+14:34:07 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=linda, ip=1.2.3.4, req_time=188
+14:34:07 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=1.2.3.4, req_time=658
+14:34:07 level=WARN, message="Hello world. ", logger=LogoutClass, ip=1.2.3.4, req_time=1567, network=green
+14:34:06 level=INFO, message="Hello world. ", user=mary, ip=3.2.4.5, req_time=645, network=green
+14:34:05 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=1.2.3.4, user=extrauser
+14:34:05 level=WARN, message="Hello world. ", logger=AuthClass, user=bob, ip=1.2.3., session_id="NjMwNDY4MDI1"
+14:34:04 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, req_time=106, session_id="OTQ2NTkzNDMx"
+14:34:04 level=ERROR, message="Hello world. ", logger=BarClass, ip=4.31.2.1, req_time=770, session_lengh=10844
+14:34:04 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=linda, ip=1.22.3.3, network=red
+14:34:04 level=WARN, message="error, ERROR, Error! ", logger=BarClass, ip=113.2.4.5, req_time=1284, session_id="MjY4NjA2NzQw"
+14:34:03 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=1.2.3., req_time=1272, session_lengh=6480
+14:34:03 level=ERROR, message="Hello world. ", logger=AuthClass, user=linda, ip=1.2.3., req_time=609
+14:34:03 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, ip=3.2.4.5, network=green
+14:34:03 level=DEBUG, message="Hello world. ", user=mary, ip=1.22.3.3, req_time=713, network=green
+14:34:02 level=ERROR, message="Don't worry, be happy. ", user=bob, ip=113.2.4.5, req_time=1854, session_lengh=2254
+14:34:01 level=WARN, message="Don't worry, be happy. ", logger=BarClass, ip=1.22.3.3, req_time=1183, user=extrauser
+14:34:01 level=INFO, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3.4, network=red
+14:34:01 level=WARN, message="error, ERROR, Error! ", logger=LogoutClass, user=mary, ip=1.22.3.3, network=green
+14:34:00 level=INFO, message="error, ERROR, Error! ", user=linda, ip=3.2.4.5, req_time=224, network=green
+14:34:00 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=3.2.4.5, req_time=886
+14:33:59 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=4.31.2.1, network=red
+14:33:58 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=4.31.2.1, req_time=344, session_lengh=8344
+14:33:58 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, ip=1.2.3.4, req_time=644, user=extrauser
+14:33:57 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=Bobby, ip=113.2.4.5, req_time=449, session_lengh=10617
+14:33:56 level=ERROR, message="error, ERROR, Error! ", user=mary, ip=3.2.4.5, req_time=292, session_lengh=1554
+14:33:55 level=WARN, message="error, ERROR, Error! ", user=bob, ip=1.2.3.4, req_time=1109, network=green
+14:33:55 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=bob, req_time=269, session_id="MzgxODcxNDE3"
+14:33:55 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=4.31.2.1, req_time=1652
+14:33:55 level=ERROR, message="Hello world. ", logger=BarClass, ip=4.31.2.1, req_time=1305, session_id="NjQ4MTY1NDI5"
+14:33:55 level=WARN, message="Don't worry, be happy. ", logger=FooClass, user=mary, ip=3.2.4.5, network=red
+14:33:54 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=1.2.3., req_time=1711
+14:33:54 level=INFO, message="Hello world. ", logger=BarClass, user=linda, ip=3.2.4.5, req_time=384
+14:33:53 level=WARN, message="Hello world. ", user=mary, ip=1.2.3., req_time=561, user=extrauser
+14:33:52 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=mary, req_time=882, user=extrauser
+14:33:51 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=jacky, ip=113.2.4.5, network=green
+14:33:50 level=DEBUG, message="error, ERROR, Error! ", user=mary, ip=1.22.3.3, req_time=594, network=green
+14:33:49 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3.4, req_time=612, user=extrauser
+14:33:49 level=ERROR, message="Hello world. ", logger=BarClass, user=Bobby, ip=1.2.3., network=green
+14:33:48 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, req_time=133, session_id="NTkzMTA2ODA5"
+14:33:48 level=ERROR, message="Hello world. ", logger=BarClass, user=jacky, req_time=85, network=green
+14:33:48 level=DEBUG, message="error, ERROR, Error! ", user=mary, ip=1.2.3., req_time=1227, session_lengh=7608
+14:33:47 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", user=Bobby, ip=1.2.3., req_time=893, network=green
+14:33:46 level=ERROR, message="error, ERROR, Error! ", user=mary, ip=3.2.4.5, req_time=681, session_lengh=10092
+14:33:46 level=DEBUG, message="error, ERROR, Error! ", user=linda, ip=113.2.4.5, req_time=1161, network=green
+14:33:46 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, ip=4.31.2.1, req_time=112, network=red
+14:33:45 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, user=bob, ip=3.2.4.5, req_time=363
+14:33:44 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=Bobby, ip=3.2.4.5, network=green
+14:33:44 level=ERROR, message="Don't worry, be happy. ", user=linda, ip=3.2.4.5, req_time=235, network=green
+14:33:43 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=113.2.4.5, req_time=871
+14:33:43 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=3.2.4.5, user=extrauser
+14:33:43 level=INFO, message="error, ERROR, Error! ", logger=BarClass, ip=1.22.3.3, req_time=1394, network=red
+14:33:42 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=3.2.4.5, req_time=20
+14:33:41 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=1.2.3., req_time=163
+14:33:41 level=ERROR, message="Hello world. ", logger=BarClass, ip=1.22.3.3, req_time=1644, network=green
+14:33:40 level=INFO, message="error, ERROR, Error! ", logger=BarClass, ip=113.2.4.5, req_time=836, session_id="ODgxODk2MDUz"
+14:33:40 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=113.2.4.5, req_time=83, network=green
+14:33:40 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.2.3.4, req_time=914, network=red
+14:33:40 level=ERROR, message="Hello world. ", logger=BarClass, user=linda, ip=1.22.3.3, session_lengh=6194
+14:33:39 level=DEBUG, message="error, ERROR, Error! ", logger=AuthClass, user=mary, ip=1.22.3.3, network=red
+14:33:39 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, ip=1.2.3., network=green
+14:33:38 level=ERROR, message="error, ERROR, Error! ", user=linda, ip=1.2.3.4, req_time=1168, network=red
+14:33:38 level=INFO, message="error, ERROR, Error! ", logger=BarClass, ip=1.2.3., req_time=1026, user=extrauser
+14:33:38 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, user=Bobby, ip=4.31.2.1, network=green
+14:33:37 level=ERROR, message="Hello world. ", logger=AuthClass, user=Bobby, ip=1.2.3.4, req_time=99
+14:33:36 level=WARN, message="error, ERROR, Error! ", logger=AuthClass, user=bob, ip=4.31.2.1, req_time=531
+14:33:36 level=DEBUG, message="Hello world. ", logger=BarClass, user=mary, req_time=988, network=red
+14:33:36 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=bob, ip=3.2.4.5, req_time=1861
+14:33:35 level=ERROR, message="Don't worry, be happy. ", user=jacky, ip=1.22.3.3, req_time=685, session_id="MjAzODk3NzEx"
+14:33:35 level=INFO, message="error, ERROR, Error! ", user=mary, ip=4.31.2.1, req_time=343, network=red
+14:33:34 level=ERROR, message="Hello world. ", logger=BarClass, user=bob, ip=3.2.4.5, req_time=843
+14:33:33 level=ERROR, message="Don't worry, be happy. ", logger=AuthClass, user=mary, ip=4.31.2.1, session_id="NjQ2NzYwMzQz"
+14:33:33 level=DEBUG, message="Hello world. ", logger=BarClass, user=mary, ip=1.2.3.4, req_time=521
+14:33:32 level=DEBUG, message="error, ERROR, Error! ", user=mary, ip=1.22.3.3, req_time=2099, network=green
+14:33:31 level=ERROR, message="Hello world. ", logger=BarClass, user=Bobby, ip=1.2.3.4, network=red
+14:33:31 level=WARN, message="Hello world. ", user=linda, ip=3.2.4.5, req_time=348, session_id="ODM2OTg1MDEx"
+14:33:31 level=INFO, message="Don't worry, be happy. ", logger=BarClass, user=linda, ip=3.2.4.5, req_time=375
+14:33:31 level=INFO, message="Hello world. ", logger=BarClass, user=Bobby, ip=113.2.4.5, req_time=483
+14:33:30 level=DEBUG, message="Hello world. ", logger=BarClass, ip=1.22.3.3, req_time=2377, user=extrauser
+14:33:29 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=jacky, ip=4.31.2.1, session_lengh=8419
+14:33:29 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.2.3.4, req_time=1429, session_id="Nzc5MDM4NzEy"
+14:33:29 level=ERROR, message="error, ERROR, Error! ", logger=AuthClass, ip=4.31.2.1, req_time=1687, network=green
+14:33:28 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=Bobby, req_time=469, network=green
+14:33:27 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=3.2.4.5, req_time=67, session_id="ODg3MDUyNDE5"
+14:33:27 level=ERROR, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=766, session_id="NzU4NDg4MDMz"
+14:33:27 level=WARN, message="error, ERROR, Error! ", user=mary, ip=3.2.4.5, req_time=1058, session_id="NzkwODAxODQz"
+14:33:26 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=Bobby, ip=113.2.4.5, req_time=135, session_id="NDc5OTY2MTQ2"
+14:33:26 level=WARN, message="error, ERROR, Error! ", logger=BarClass, user=bob, ip=113.2.4.5, network=green
+14:33:26 level=INFO, message="Hello world. ", user=linda, ip=1.2.3.4, req_time=643, session_id="NzY1NDYzMTQ1"
+14:33:26 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=4.31.2.1, session_id="NjEwMDkwMDQ0"
+14:33:25 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=4.31.2.1, req_time=988
+14:33:25 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=AuthClass, ip=1.22.3.3, req_time=985, session_id="NDY3ODg5NzEw"
+14:33:24 level=INFO, message="Hello world. ", logger=BarClass, user=mary, req_time=843, network=red
+14:33:24 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, ip=4.31.2.1, req_time=1355, session_id="OTUwODg2Njk5"
+14:33:24 level=ERROR, message="Hello world. ", logger=BarClass, user=mary, ip=113.2.4.5, req_time=1339
+14:33:24 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=3.2.4.5, session_id="Mjg3NDMwNDQ4"
+14:33:23 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, ip=1.2.3.4, req_time=654, session_id="MTI3NTgxMzg2"
+14:33:23 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=3.2.4.5, user=extrauser
+14:33:22 level=DEBUG, message="Don't worry, be happy. ", logger=BarClass, user=mary, req_time=797, session_id="ODk1NDI3NTk5"
+14:33:22 level=DEBUG, message="Hello world. ", logger=BarClass, ip=1.2.3.4, req_time=154, user=extrauser
+14:33:21 level=WARN, message="error, ERROR, Error! ", logger=FooClass, user=linda, req_time=2422, network=green
+14:33:20 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=mary, ip=4.31.2.1, req_time=774
+14:33:19 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, ip=1.2.3., user=extrauser
+14:33:19 level=DEBUG, message="Hello world. ", logger=AuthClass, ip=3.2.4.5, req_time=353, session_lengh=2145
+14:33:19 level=DEBUG, message="Hello world. ", logger=BarClass, user=mary, ip=1.22.3.3, req_time=1244
+14:33:18 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, ip=4.31.2.1, req_time=1718, network=red
+14:33:17 level=WARN, message="Hello world. ", user=linda, ip=3.2.4.5, req_time=987, network=red
+14:33:17 level=INFO, message="error, ERROR, Error! ", logger=BarClass, user=mary, ip=1.2.3.4, user=extrauser
+14:33:16 level=INFO, message="error, ERROR, Error! ", user=mary, ip=1.2.3.4, req_time=1935, user=extrauser
+14:33:16 level=DEBUG, message="Hello world. ", logger=BarClass, user=mary, req_time=1280, network=green
+14:33:15 level=ERROR, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, ip=1.2.3., req_time=1573, session_lengh=4864
+14:33:15 level=ERROR, message="error, ERROR, Error! ", logger=LogoutClass, user=bob, ip=1.22.3.3, session_id="MjM5MjEzNTEy"
+14:33:14 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=bob, ip=1.2.3., network=green
+14:33:14 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=Bobby, ip=4.31.2.1, req_time=237, network=green
+14:33:14 level=WARN, message="Don't worry, be happy. ", logger=BarClass, user=mary, ip=1.22.3.3, req_time=112
+14:33:13 level=DEBUG, message="error, ERROR, Error! ", logger=BarClass, user=linda, ip=4.31.2.1, network=red
+14:33:13 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=FooClass, user=bob, req_time=1626, session_lengh=1280
+14:33:13 level=DEBUG, message="Don't worry, be happy. ", logger=LogoutClass, user=mary, req_time=1694, session_lengh=7809
+14:33:13 level=DEBUG, message="Hello world. ", user=jacky, ip=3.2.4.5, req_time=1048, session_id="MjM0MjQ4Nzc="
+14:33:12 level=ERROR, message="error, ERROR, Error! ", logger=BarClass, user=Bobby, ip=4.31.2.1, req_time=822
+14:33:11 level=WARN, message="Don't worry, be happy. ", logger=FooClass, user=Bobby, ip=1.22.3.3, network=green
+14:33:11 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=113.2.4.5, req_time=1011, network=green
+14:33:11 level=DEBUG, message="Nothing happened. This is worthless. Don't log this. ", logger=LogoutClass, user=jacky, ip=4.31.2.1, req_time=333
+14:33:10 level=DEBUG, message="Hello world. ", user=mary, ip=113.2.4.5, req_time=108, network=green
+14:33:09 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", user=mary, ip=4.31.2.1, req_time=324, session_id="OTc1NDY1Njk="
+14:33:09 level=WARN, message="Nothing happened. This is worthless. Don't log this. ", user=Bobby, ip=1.2.3.4, req_time=800, network=red
+14:33:09 level=INFO, message="Nothing happened. This is worthless. Don't log this. ", logger=BarClass, user=bob, ip=1.2.3., req_time=1412

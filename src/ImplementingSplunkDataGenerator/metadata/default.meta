@@ -1,0 +1,10 @@
+[authorize]
+access = read : [ * ], write : [ admin ]
+export = system
+
+[lookups]
+export = system
+
+[props]
+export = system
+
